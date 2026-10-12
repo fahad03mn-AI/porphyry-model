@@ -1,0 +1,33 @@
+TABLE,CODE,DESCRIPTION
+LITHO,COL,Colluvium / post-mineral gravel cover
+LITHO,DAC,Post-mineral dacite dyke (barren)
+LITHO,BXH,"Hydrothermal breccia pipe (intra-mineral, high grade)"
+LITHO,IMP,"Inter-mineral porphyry dyke (diluting, lower grade)"
+LITHO,QMP,"Quartz-monzonite porphyry stock (early, main mineralising intrusion)"
+LITHO,AND,Andesite volcanic host rock
+ALTERATION,ARG,"Argillic (kaolinite-smectite, near-surface)"
+ALTERATION,PHY,Phyllic / QSP (quartz-sericite-pyrite)
+ALTERATION,POT,Potassic (K-feldspar-biotite-magnetite)
+ALTERATION,PRO,Propylitic (chlorite-epidote-calcite)
+ALTERATION,WK,Weak / unaltered
+MIN_ZONE,COV,Transported cover (gravels)
+MIN_ZONE,LCH,"Leached cap (hematite-goethite-jarosite, Cu depleted)"
+MIN_ZONE,OXD,"Oxide zone (chrysocolla, brochantite, Cu wad)"
+MIN_ZONE,SUP,Supergene enrichment blanket (chalcocite-covellite)
+MIN_ZONE,HYP,Hypogene / primary sulphides (chalcopyrite-bornite)
+SURPAC_STRING,1,TOPO
+SURPAC_STRING,2,BOC
+SURPAC_STRING,3,BOLC
+SURPAC_STRING,4,BOX
+SURPAC_STRING,5,TOH
+SURPAC_STRING,10,QMP
+SURPAC_STRING,11,IMP
+SURPAC_STRING,12,BXH
+SURPAC_STRING,13,DAC
+SURPAC_STRING,20,POT
+SURPAC_STRING,21,PHY
+SURPAC_STRING,22,ARG
+SURPAC_STRING,23,PRO
+SURPAC_STRING,30,CU_0.2
+SURPAC_STRING,31,CU_0.4
+SURPAC_STRING,32,CU_0.8

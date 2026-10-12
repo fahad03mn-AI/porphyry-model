@@ -1,0 +1,2713 @@
+HOLE_ID,DEPTH,SG,METHOD
+PDD001,11.96,1.986,Archimedes (wax-coated)
+PDD001,31.96,2.350,Archimedes (wax-coated)
+PDD001,51.96,2.519,Archimedes
+PDD001,71.96,2.750,Archimedes
+PDD001,91.96,2.710,Archimedes
+PDD001,111.96,2.674,Archimedes
+PDD001,131.96,2.694,Archimedes
+PDD001,151.96,2.716,Archimedes
+PDD001,171.96,2.651,Archimedes
+PDD001,191.96,2.724,Archimedes
+PDD001,211.96,2.734,Archimedes
+PDD001,231.96,2.729,Archimedes
+PDD001,251.96,2.703,Archimedes
+PDD001,271.96,2.648,Archimedes
+PDD001,291.96,2.691,Archimedes
+PDD001,311.96,2.713,Archimedes
+PDD001,331.96,2.711,Archimedes
+PDD001,351.96,2.754,Archimedes
+PDD001,371.96,2.682,Archimedes
+PDD001,391.96,2.721,Archimedes
+PDD001,411.96,2.680,Archimedes
+PDD001,431.96,2.598,Archimedes
+PDD001,451.96,2.764,Archimedes
+PDD001,471.96,2.685,Archimedes
+PDD002,18.45,2.195,Archimedes (wax-coated)
+PDD002,38.45,2.239,Archimedes (wax-coated)
+PDD002,58.45,2.349,Archimedes (wax-coated)
+PDD002,78.45,2.348,Archimedes (wax-coated)
+PDD002,98.45,2.539,Archimedes
+PDD002,118.45,2.529,Archimedes
+PDD002,138.45,2.722,Archimedes
+PDD002,158.45,2.659,Archimedes
+PDD002,178.45,2.744,Archimedes
+PDD002,198.45,2.707,Archimedes
+PDD002,218.45,2.683,Archimedes
+PDD002,238.45,2.719,Archimedes
+PDD002,258.45,2.678,Archimedes
+PDD002,278.45,2.708,Archimedes
+PDD002,298.45,2.724,Archimedes
+PDD002,318.45,2.657,Archimedes
+PDD002,338.45,2.691,Archimedes
+PDD002,358.45,2.727,Archimedes
+PDD002,378.45,2.739,Archimedes
+PDD002,398.45,2.660,Archimedes
+PDD002,418.45,2.774,Archimedes
+PDD002,438.45,2.708,Archimedes
+PDD003,5.18,1.929,Archimedes (wax-coated)
+PDD003,25.18,2.265,Archimedes (wax-coated)
+PDD003,45.18,2.214,Archimedes (wax-coated)
+PDD003,65.18,2.479,Archimedes (wax-coated)
+PDD003,85.18,2.528,Archimedes
+PDD003,105.18,2.495,Archimedes
+PDD003,125.18,2.515,Archimedes
+PDD003,145.18,2.722,Archimedes
+PDD003,165.18,2.680,Archimedes
+PDD003,185.18,2.727,Archimedes
+PDD003,205.18,2.669,Archimedes
+PDD003,225.18,2.730,Archimedes
+PDD003,245.18,2.674,Archimedes
+PDD003,265.18,2.748,Archimedes
+PDD003,285.18,2.667,Archimedes
+PDD003,305.18,2.668,Archimedes
+PDD003,325.18,2.725,Archimedes
+PDD003,345.18,2.621,Archimedes
+PDD003,365.18,2.729,Archimedes
+PDD003,385.18,2.682,Archimedes
+PDD003,405.18,2.644,Archimedes
+PDD003,425.18,2.636,Archimedes
+PDD003,445.18,2.691,Archimedes
+PDD003,465.18,2.693,Archimedes
+PDD003,485.18,2.764,Archimedes
+PDD003,505.18,2.699,Archimedes
+PDD003,525.18,2.713,Archimedes
+PDD004,5.98,2.303,Archimedes (wax-coated)
+PDD004,25.98,2.218,Archimedes (wax-coated)
+PDD004,45.98,2.223,Archimedes (wax-coated)
+PDD004,65.98,2.431,Archimedes (wax-coated)
+PDD004,85.98,2.522,Archimedes
+PDD004,105.98,2.485,Archimedes
+PDD004,125.98,2.571,Archimedes
+PDD004,145.98,2.688,Archimedes
+PDD004,165.98,2.786,Archimedes
+PDD004,185.98,2.688,Archimedes
+PDD004,205.98,2.673,Archimedes
+PDD004,225.98,2.729,Archimedes
+PDD004,245.98,2.686,Archimedes
+PDD004,265.98,2.677,Archimedes
+PDD004,285.98,2.713,Archimedes
+PDD004,305.98,2.656,Archimedes
+PDD004,325.98,2.688,Archimedes
+PDD004,345.98,2.735,Archimedes
+PDD004,365.98,2.719,Archimedes
+PDD004,385.98,2.706,Archimedes
+PDD004,405.98,2.707,Archimedes
+PDD004,425.98,2.710,Archimedes
+PDD004,445.98,2.684,Archimedes
+PDD004,465.98,2.712,Archimedes
+PDD004,485.98,2.726,Archimedes
+PDD004,505.98,2.678,Archimedes
+PDD004,525.98,2.661,Archimedes
+PDD004,545.98,2.673,Archimedes
+PDD004,565.98,2.723,Archimedes
+PDD005,10.97,2.246,Archimedes (wax-coated)
+PDD005,30.97,2.281,Archimedes (wax-coated)
+PDD005,50.97,2.404,Archimedes (wax-coated)
+PDD005,70.97,2.364,Archimedes (wax-coated)
+PDD005,90.97,2.518,Archimedes
+PDD005,110.97,2.503,Archimedes
+PDD005,130.97,2.719,Archimedes
+PDD005,150.97,2.682,Archimedes
+PDD005,170.97,2.727,Archimedes
+PDD005,190.97,2.703,Archimedes
+PDD005,210.97,2.657,Archimedes
+PDD005,230.97,2.608,Archimedes
+PDD005,250.97,2.676,Archimedes
+PDD005,270.97,2.728,Archimedes
+PDD005,290.97,2.667,Archimedes
+PDD005,310.97,2.675,Archimedes
+PDD005,330.97,2.741,Archimedes
+PDD005,350.97,2.739,Archimedes
+PDD005,370.97,2.670,Archimedes
+PDD005,390.97,2.709,Archimedes
+PDD005,410.97,2.664,Archimedes
+PDD005,430.97,2.684,Archimedes
+PDD005,450.97,2.716,Archimedes
+PDD005,470.97,2.694,Archimedes
+PDD005,490.97,2.700,Archimedes
+PDD005,510.97,2.629,Archimedes
+PDD005,530.97,2.707,Archimedes
+PDD006,19.41,2.243,Archimedes (wax-coated)
+PDD006,39.41,2.224,Archimedes (wax-coated)
+PDD006,59.41,2.483,Archimedes (wax-coated)
+PDD006,79.41,2.393,Archimedes (wax-coated)
+PDD006,99.41,2.539,Archimedes
+PDD006,119.41,2.508,Archimedes
+PDD006,139.41,2.537,Archimedes
+PDD006,159.41,2.704,Archimedes
+PDD006,179.41,2.708,Archimedes
+PDD006,199.41,2.737,Archimedes
+PDD006,219.41,2.734,Archimedes
+PDD006,239.41,2.683,Archimedes
+PDD006,259.41,2.694,Archimedes
+PDD006,279.41,2.716,Archimedes
+PDD006,299.41,2.684,Archimedes
+PDD006,319.41,2.641,Archimedes
+PDD006,339.41,2.672,Archimedes
+PDD006,359.41,2.732,Archimedes
+PDD006,379.41,2.651,Archimedes
+PDD006,399.41,2.673,Archimedes
+PDD006,419.41,2.688,Archimedes
+PDD006,439.41,2.713,Archimedes
+PDD006,459.41,2.624,Archimedes
+PDD006,479.41,2.687,Archimedes
+PDD006,499.41,2.729,Archimedes
+PDD006,519.41,2.699,Archimedes
+PDD006,539.41,2.750,Archimedes
+PDD006,559.41,2.677,Archimedes
+PDD006,579.41,2.658,Archimedes
+PDD006,599.41,2.716,Archimedes
+PDD006,619.41,2.745,Archimedes
+PDD006,639.41,2.714,Archimedes
+PDD006,659.41,2.650,Archimedes
+PDD006,679.41,2.667,Archimedes
+PDD006,699.41,2.719,Archimedes
+PDD006,719.41,2.693,Archimedes
+PDD006,739.41,2.712,Archimedes
+PDD006,759.41,2.651,Archimedes
+PDD007,10.75,2.237,Archimedes (wax-coated)
+PDD007,30.75,2.223,Archimedes (wax-coated)
+PDD007,50.75,2.419,Archimedes (wax-coated)
+PDD007,70.75,2.408,Archimedes (wax-coated)
+PDD007,90.75,2.485,Archimedes
+PDD007,110.75,2.539,Archimedes
+PDD007,130.75,2.709,Archimedes
+PDD007,150.75,2.687,Archimedes
+PDD007,170.75,2.689,Archimedes
+PDD007,190.75,2.740,Archimedes
+PDD007,210.75,2.721,Archimedes
+PDD007,230.75,2.661,Archimedes
+PDD007,250.75,2.662,Archimedes
+PDD007,270.75,2.688,Archimedes
+PDD007,290.75,2.679,Archimedes
+PDD007,310.75,2.715,Archimedes
+PDD007,330.75,2.674,Archimedes
+PDD007,350.75,2.727,Archimedes
+PDD007,370.75,2.750,Archimedes
+PDD007,390.75,2.724,Archimedes
+PDD007,410.75,2.713,Archimedes
+PDD007,430.75,2.710,Archimedes
+PDD007,450.75,2.684,Archimedes
+PDD007,470.75,2.679,Archimedes
+PDD007,490.75,2.733,Archimedes
+PDD007,510.75,2.720,Archimedes
+PDD007,530.75,2.658,Archimedes
+PDD007,550.75,2.721,Archimedes
+PDD007,570.75,2.618,Archimedes
+PDD007,590.75,2.751,Archimedes
+PDD008,18.83,2.245,Archimedes (wax-coated)
+PDD008,38.83,2.246,Archimedes (wax-coated)
+PDD008,58.83,2.363,Archimedes (wax-coated)
+PDD008,78.83,2.500,Archimedes
+PDD008,98.83,2.521,Archimedes
+PDD008,118.83,2.674,Archimedes
+PDD008,138.83,2.656,Archimedes
+PDD008,158.83,2.726,Archimedes
+PDD008,178.83,2.730,Archimedes
+PDD008,198.83,2.666,Archimedes
+PDD008,218.83,2.668,Archimedes
+PDD008,238.83,2.697,Archimedes
+PDD008,258.83,2.676,Archimedes
+PDD008,278.83,2.703,Archimedes
+PDD008,298.83,2.723,Archimedes
+PDD008,318.83,2.691,Archimedes
+PDD008,338.83,2.717,Archimedes
+PDD008,358.83,2.686,Archimedes
+PDD008,378.83,2.770,Archimedes
+PDD008,398.83,2.669,Archimedes
+PDD008,418.83,2.689,Archimedes
+PDD008,438.83,2.724,Archimedes
+PDD009,15.25,2.198,Archimedes (wax-coated)
+PDD009,35.25,2.424,Archimedes (wax-coated)
+PDD009,55.25,2.428,Archimedes (wax-coated)
+PDD009,75.25,2.484,Archimedes
+PDD009,95.25,2.671,Archimedes
+PDD009,115.25,2.731,Archimedes
+PDD009,135.25,2.753,Archimedes
+PDD009,155.25,2.740,Archimedes
+PDD009,175.25,2.699,Archimedes
+PDD009,195.25,2.649,Archimedes
+PDD009,215.25,2.682,Archimedes
+PDD009,235.25,2.686,Archimedes
+PDD009,255.25,2.591,Archimedes
+PDD009,275.25,2.613,Archimedes
+PDD009,295.25,2.577,Archimedes
+PDD009,315.25,2.672,Archimedes
+PDD009,335.25,2.654,Archimedes
+PDD009,355.25,2.705,Archimedes
+PDD009,375.25,2.646,Archimedes
+PDD010,5.44,1.916,Archimedes (wax-coated)
+PDD010,25.44,2.237,Archimedes (wax-coated)
+PDD010,45.44,2.275,Archimedes (wax-coated)
+PDD010,65.44,2.233,Archimedes (wax-coated)
+PDD010,85.44,2.339,Archimedes (wax-coated)
+PDD010,105.44,2.448,Archimedes
+PDD010,125.44,2.545,Archimedes
+PDD010,145.44,2.496,Archimedes
+PDD010,165.44,2.661,Archimedes
+PDD010,185.44,2.682,Archimedes
+PDD010,205.44,2.682,Archimedes
+PDD010,225.44,2.715,Archimedes
+PDD010,245.44,2.691,Archimedes
+PDD010,265.44,2.679,Archimedes
+PDD010,285.44,2.626,Archimedes
+PDD010,305.44,2.625,Archimedes
+PDD010,325.44,2.690,Archimedes
+PDD010,345.44,2.675,Archimedes
+PDD010,365.44,2.738,Archimedes
+PDD010,385.44,2.681,Archimedes
+PDD010,405.44,2.717,Archimedes
+PDD010,425.44,2.678,Archimedes
+PDD010,445.44,2.688,Archimedes
+PDD010,465.44,2.685,Archimedes
+PDD010,485.44,2.629,Archimedes
+PDD010,505.44,2.700,Archimedes
+PDD010,525.44,2.649,Archimedes
+PDD010,545.44,2.664,Archimedes
+PDD010,565.44,2.721,Archimedes
+PDD010,585.44,2.693,Archimedes
+PDD010,605.44,2.615,Archimedes
+PDD010,625.44,2.698,Archimedes
+PDD010,645.44,2.651,Archimedes
+PDD010,665.44,2.704,Archimedes
+PDD010,685.44,2.675,Archimedes
+PDD010,705.44,2.691,Archimedes
+PDD010,725.44,2.656,Archimedes
+PDD010,745.44,2.700,Archimedes
+PDD010,765.44,2.762,Archimedes
+PDD010,785.44,2.736,Archimedes
+PDD010,805.44,2.705,Archimedes
+PDD011,6.09,1.945,Archimedes (wax-coated)
+PDD011,26.09,2.219,Archimedes (wax-coated)
+PDD011,46.09,2.196,Archimedes (wax-coated)
+PDD011,66.09,2.216,Archimedes (wax-coated)
+PDD011,86.09,2.262,Archimedes (wax-coated)
+PDD011,106.09,2.320,Archimedes (wax-coated)
+PDD011,126.09,2.591,Archimedes
+PDD011,146.09,2.531,Archimedes
+PDD011,166.09,2.490,Archimedes
+PDD011,186.09,2.558,Archimedes
+PDD011,206.09,2.497,Archimedes
+PDD011,226.09,2.691,Archimedes
+PDD011,246.09,2.607,Archimedes
+PDD011,266.09,2.663,Archimedes
+PDD011,286.09,2.671,Archimedes
+PDD011,306.09,2.684,Archimedes
+PDD011,326.09,2.748,Archimedes
+PDD011,346.09,2.711,Archimedes
+PDD011,366.09,2.701,Archimedes
+PDD011,386.09,2.712,Archimedes
+PDD011,406.09,2.716,Archimedes
+PDD011,426.09,2.686,Archimedes
+PDD011,446.09,2.711,Archimedes
+PDD011,466.09,2.735,Archimedes
+PDD011,486.09,2.731,Archimedes
+PDD011,506.09,2.713,Archimedes
+PDD011,526.09,2.751,Archimedes
+PDD011,546.09,2.676,Archimedes
+PDD011,566.09,2.688,Archimedes
+PDD011,586.09,2.693,Archimedes
+PDD011,606.09,2.714,Archimedes
+PDD011,626.09,2.693,Archimedes
+PDD011,646.09,2.622,Archimedes
+PDD011,666.09,2.689,Archimedes
+PDD012,10.93,2.278,Archimedes (wax-coated)
+PDD012,30.93,2.248,Archimedes (wax-coated)
+PDD012,50.93,2.277,Archimedes (wax-coated)
+PDD012,70.93,2.283,Archimedes (wax-coated)
+PDD012,90.93,2.366,Archimedes (wax-coated)
+PDD012,110.93,2.555,Archimedes
+PDD012,130.93,2.498,Archimedes
+PDD012,150.93,2.484,Archimedes
+PDD012,170.93,2.491,Archimedes
+PDD012,190.93,2.467,Archimedes
+PDD012,210.93,2.691,Archimedes
+PDD012,230.93,2.734,Archimedes
+PDD012,250.93,2.638,Archimedes
+PDD012,270.93,2.773,Archimedes
+PDD012,290.93,2.706,Archimedes
+PDD012,310.93,2.722,Archimedes
+PDD012,330.93,2.757,Archimedes
+PDD012,350.93,2.749,Archimedes
+PDD012,370.93,2.750,Archimedes
+PDD012,390.93,2.692,Archimedes
+PDD012,410.93,2.697,Archimedes
+PDD012,430.93,2.749,Archimedes
+PDD012,450.93,2.728,Archimedes
+PDD012,470.93,2.703,Archimedes
+PDD012,490.93,2.701,Archimedes
+PDD012,510.93,2.679,Archimedes
+PDD012,530.93,2.705,Archimedes
+PDD012,550.93,2.713,Archimedes
+PDD012,570.93,2.640,Archimedes
+PDD012,590.93,2.777,Archimedes
+PDD012,610.93,2.733,Archimedes
+PDD012,630.93,2.721,Archimedes
+PDD012,650.93,2.723,Archimedes
+PDD012,670.93,2.704,Archimedes
+PDD013,18.15,2.166,Archimedes (wax-coated)
+PDD013,38.15,2.277,Archimedes (wax-coated)
+PDD013,58.15,2.242,Archimedes (wax-coated)
+PDD013,78.15,2.362,Archimedes (wax-coated)
+PDD013,98.15,2.549,Archimedes
+PDD013,118.15,2.507,Archimedes
+PDD013,138.15,2.517,Archimedes
+PDD013,158.15,2.670,Archimedes
+PDD013,178.15,2.625,Archimedes
+PDD013,198.15,2.689,Archimedes
+PDD013,218.15,2.759,Archimedes
+PDD013,238.15,2.730,Archimedes
+PDD013,258.15,2.726,Archimedes
+PDD013,278.15,2.717,Archimedes
+PDD013,298.15,2.718,Archimedes
+PDD013,318.15,2.686,Archimedes
+PDD013,338.15,2.704,Archimedes
+PDD013,358.15,2.644,Archimedes
+PDD013,378.15,2.624,Archimedes
+PDD013,398.15,2.729,Archimedes
+PDD013,418.15,2.685,Archimedes
+PDD013,438.15,2.703,Archimedes
+PDD013,458.15,2.740,Archimedes
+PDD013,478.15,2.658,Archimedes
+PDD013,498.15,2.731,Archimedes
+PDD013,518.15,2.756,Archimedes
+PDD013,538.15,2.705,Archimedes
+PDD013,558.15,2.560,Archimedes
+PDD013,578.15,2.584,Archimedes
+PDD013,598.15,2.680,Archimedes
+PDD013,618.15,2.672,Archimedes
+PDD013,638.15,2.690,Archimedes
+PDD013,658.15,2.682,Archimedes
+PDD013,678.15,2.706,Archimedes
+PDD013,698.15,2.644,Archimedes
+PDD014,18.38,2.262,Archimedes (wax-coated)
+PDD014,38.38,2.183,Archimedes (wax-coated)
+PDD014,58.38,2.245,Archimedes (wax-coated)
+PDD014,78.38,2.376,Archimedes (wax-coated)
+PDD014,98.38,2.431,Archimedes (wax-coated)
+PDD014,118.38,2.565,Archimedes
+PDD014,138.38,2.478,Archimedes
+PDD014,158.38,2.540,Archimedes
+PDD014,178.38,2.535,Archimedes
+PDD014,198.38,2.547,Archimedes
+PDD014,218.38,2.700,Archimedes
+PDD014,238.38,2.684,Archimedes
+PDD014,258.38,2.673,Archimedes
+PDD014,278.38,2.693,Archimedes
+PDD014,298.38,2.687,Archimedes
+PDD014,318.38,2.730,Archimedes
+PDD014,338.38,2.675,Archimedes
+PDD014,358.38,2.714,Archimedes
+PDD014,378.38,2.728,Archimedes
+PDD014,398.38,2.654,Archimedes
+PDD014,418.38,2.669,Archimedes
+PDD014,438.38,2.712,Archimedes
+PDD014,458.38,2.787,Archimedes
+PDD014,478.38,2.687,Archimedes
+PDD014,498.38,2.698,Archimedes
+PDD014,518.38,2.759,Archimedes
+PDD014,538.38,2.704,Archimedes
+PDD014,558.38,2.741,Archimedes
+PDD014,578.38,2.655,Archimedes
+PDD014,598.38,2.766,Archimedes
+PDD014,618.38,2.639,Archimedes
+PDD014,638.38,2.694,Archimedes
+PDD015,8.22,1.974,Archimedes (wax-coated)
+PDD015,28.22,2.274,Archimedes (wax-coated)
+PDD015,48.22,2.354,Archimedes (wax-coated)
+PDD015,68.22,2.367,Archimedes (wax-coated)
+PDD015,88.22,2.528,Archimedes
+PDD015,108.22,2.550,Archimedes
+PDD015,128.22,2.526,Archimedes
+PDD015,148.22,2.501,Archimedes
+PDD015,168.22,2.735,Archimedes
+PDD015,188.22,2.735,Archimedes
+PDD015,208.22,2.671,Archimedes
+PDD015,228.22,2.704,Archimedes
+PDD015,248.22,2.707,Archimedes
+PDD015,268.22,2.677,Archimedes
+PDD015,288.22,2.658,Archimedes
+PDD015,308.22,2.664,Archimedes
+PDD015,328.22,2.781,Archimedes
+PDD015,348.22,2.740,Archimedes
+PDD015,368.22,2.741,Archimedes
+PDD015,388.22,2.677,Archimedes
+PDD015,408.22,2.698,Archimedes
+PDD015,428.22,2.688,Archimedes
+PDD015,448.22,2.593,Archimedes
+PDD015,468.22,2.693,Archimedes
+PDD015,488.22,2.729,Archimedes
+PDD015,508.22,2.708,Archimedes
+PDD015,528.22,2.682,Archimedes
+PDD015,548.22,2.679,Archimedes
+PDD015,568.22,2.659,Archimedes
+PDD015,588.22,2.688,Archimedes
+PDD015,608.22,2.673,Archimedes
+PDD015,628.22,2.756,Archimedes
+PDD015,648.22,2.671,Archimedes
+PDD015,668.22,2.705,Archimedes
+PDD015,688.22,2.646,Archimedes
+PDD015,708.22,2.704,Archimedes
+PDD015,728.22,2.710,Archimedes
+PDD016,19.28,2.268,Archimedes (wax-coated)
+PDD016,39.28,2.434,Archimedes (wax-coated)
+PDD016,59.28,2.430,Archimedes (wax-coated)
+PDD016,79.28,2.503,Archimedes
+PDD016,99.28,2.434,Archimedes
+PDD016,119.28,2.698,Archimedes
+PDD016,139.28,2.718,Archimedes
+PDD016,159.28,2.693,Archimedes
+PDD016,179.28,2.637,Archimedes
+PDD016,199.28,2.734,Archimedes
+PDD016,219.28,2.755,Archimedes
+PDD016,239.28,2.675,Archimedes
+PDD016,259.28,2.683,Archimedes
+PDD016,279.28,2.682,Archimedes
+PDD016,299.28,2.718,Archimedes
+PDD016,319.28,2.667,Archimedes
+PDD016,339.28,2.694,Archimedes
+PDD016,359.28,2.682,Archimedes
+PDD016,379.28,2.691,Archimedes
+PDD016,399.28,2.674,Archimedes
+PDD016,419.28,2.743,Archimedes
+PDD016,439.28,2.668,Archimedes
+PDD016,459.28,2.752,Archimedes
+PDD016,479.28,2.691,Archimedes
+PDD016,499.28,2.648,Archimedes
+PDD016,519.28,2.674,Archimedes
+PDD016,539.28,2.700,Archimedes
+PDD016,559.28,2.748,Archimedes
+PDD016,579.28,2.721,Archimedes
+PDD016,599.28,2.703,Archimedes
+PDD016,619.28,2.680,Archimedes
+PDD016,639.28,2.727,Archimedes
+PDD016,659.28,2.744,Archimedes
+PDD016,679.28,2.704,Archimedes
+PDD016,699.28,2.670,Archimedes
+PDD016,719.28,2.748,Archimedes
+PDD016,739.28,2.693,Archimedes
+PDD017,14.57,1.982,Archimedes (wax-coated)
+PDD017,34.57,2.379,Archimedes (wax-coated)
+PDD017,54.57,2.376,Archimedes (wax-coated)
+PDD017,74.57,2.543,Archimedes
+PDD017,94.57,2.529,Archimedes
+PDD017,114.57,2.738,Archimedes
+PDD017,134.57,2.692,Archimedes
+PDD017,154.57,2.710,Archimedes
+PDD017,174.57,2.725,Archimedes
+PDD017,194.57,2.673,Archimedes
+PDD017,214.57,2.750,Archimedes
+PDD017,234.57,2.666,Archimedes
+PDD017,254.57,2.706,Archimedes
+PDD017,274.57,2.674,Archimedes
+PDD017,294.57,2.686,Archimedes
+PDD017,314.57,2.726,Archimedes
+PDD017,334.57,2.699,Archimedes
+PDD017,354.57,2.779,Archimedes
+PDD017,374.57,2.676,Archimedes
+PDD018,5.10,1.928,Archimedes (wax-coated)
+PDD018,25.10,2.258,Archimedes (wax-coated)
+PDD018,45.10,2.230,Archimedes (wax-coated)
+PDD018,65.10,2.318,Archimedes (wax-coated)
+PDD018,85.10,2.514,Archimedes
+PDD018,105.10,2.499,Archimedes
+PDD018,125.10,2.520,Archimedes
+PDD018,145.10,2.688,Archimedes
+PDD018,165.10,2.705,Archimedes
+PDD018,185.10,2.560,Archimedes
+PDD018,205.10,2.614,Archimedes
+PDD018,225.10,2.597,Archimedes
+PDD018,245.10,2.597,Archimedes
+PDD018,265.10,2.557,Archimedes
+PDD018,285.10,2.629,Archimedes
+PDD018,305.10,2.598,Archimedes
+PDD018,325.10,2.599,Archimedes
+PDD018,345.10,2.615,Archimedes
+PDD018,365.10,2.716,Archimedes
+PDD018,385.10,2.687,Archimedes
+PDD018,405.10,2.639,Archimedes
+PDD018,425.10,2.743,Archimedes
+PDD018,445.10,2.684,Archimedes
+PDD018,465.10,2.726,Archimedes
+PDD018,485.10,2.704,Archimedes
+PDD018,505.10,2.692,Archimedes
+PDD018,525.10,2.681,Archimedes
+PDD018,545.10,2.762,Archimedes
+PDD018,565.10,2.745,Archimedes
+PDD018,585.10,2.685,Archimedes
+PDD018,605.10,2.733,Archimedes
+PDD018,625.10,2.670,Archimedes
+PDD018,645.10,2.727,Archimedes
+PDD018,665.10,2.702,Archimedes
+PDD018,685.10,2.696,Archimedes
+PDD019,12.66,1.920,Archimedes (wax-coated)
+PDD019,32.66,2.262,Archimedes (wax-coated)
+PDD019,52.66,2.267,Archimedes (wax-coated)
+PDD019,72.66,2.431,Archimedes (wax-coated)
+PDD019,92.66,2.539,Archimedes
+PDD019,112.66,2.552,Archimedes
+PDD019,132.66,2.525,Archimedes
+PDD019,152.66,2.514,Archimedes
+PDD019,172.66,2.549,Archimedes
+PDD019,192.66,2.512,Archimedes
+PDD019,212.66,2.723,Archimedes
+PDD019,232.66,2.695,Archimedes
+PDD019,252.66,2.632,Archimedes
+PDD019,272.66,2.754,Archimedes
+PDD019,292.66,2.707,Archimedes
+PDD019,312.66,2.708,Archimedes
+PDD019,332.66,2.680,Archimedes
+PDD019,352.66,2.668,Archimedes
+PDD019,372.66,2.685,Archimedes
+PDD019,392.66,2.719,Archimedes
+PDD019,412.66,2.739,Archimedes
+PDD019,432.66,2.606,Archimedes
+PDD019,452.66,2.562,Archimedes
+PDD019,472.66,2.604,Archimedes
+PDD019,492.66,2.548,Archimedes
+PDD019,512.66,2.564,Archimedes
+PDD019,532.66,2.583,Archimedes
+PDD019,552.66,2.652,Archimedes
+PDD019,572.66,2.617,Archimedes
+PDD019,592.66,2.609,Archimedes
+PDD019,612.66,2.613,Archimedes
+PDD019,632.66,2.661,Archimedes
+PDD019,652.66,2.618,Archimedes
+PDD019,672.66,2.572,Archimedes
+PDD019,692.66,2.650,Archimedes
+PDD019,712.66,2.647,Archimedes
+PDD020,16.24,2.217,Archimedes (wax-coated)
+PDD020,36.24,2.263,Archimedes (wax-coated)
+PDD020,56.24,2.211,Archimedes (wax-coated)
+PDD020,76.24,2.254,Archimedes (wax-coated)
+PDD020,96.24,2.267,Archimedes (wax-coated)
+PDD020,116.24,2.407,Archimedes (wax-coated)
+PDD020,136.24,2.499,Archimedes
+PDD020,156.24,2.504,Archimedes
+PDD020,176.24,2.519,Archimedes
+PDD020,196.24,2.428,Archimedes
+PDD020,216.24,2.482,Archimedes
+PDD020,236.24,2.682,Archimedes
+PDD020,256.24,2.668,Archimedes
+PDD020,276.24,2.683,Archimedes
+PDD020,296.24,2.731,Archimedes
+PDD020,316.24,2.720,Archimedes
+PDD020,336.24,2.725,Archimedes
+PDD020,356.24,2.599,Archimedes
+PDD020,376.24,2.621,Archimedes
+PDD020,396.24,2.622,Archimedes
+PDD020,416.24,2.610,Archimedes
+PDD020,436.24,2.629,Archimedes
+PDD020,456.24,2.626,Archimedes
+PDD020,476.24,2.606,Archimedes
+PDD020,496.24,2.634,Archimedes
+PDD020,516.24,2.618,Archimedes
+PDD020,536.24,2.657,Archimedes
+PDD020,556.24,2.611,Archimedes
+PDD020,576.24,2.776,Archimedes
+PDD021,10.07,2.177,Archimedes (wax-coated)
+PDD021,30.07,2.260,Archimedes (wax-coated)
+PDD021,50.07,2.246,Archimedes (wax-coated)
+PDD021,70.07,2.244,Archimedes (wax-coated)
+PDD021,90.07,2.401,Archimedes (wax-coated)
+PDD021,110.07,2.362,Archimedes (wax-coated)
+PDD021,130.07,2.520,Archimedes
+PDD021,150.07,2.508,Archimedes
+PDD021,170.07,2.525,Archimedes
+PDD021,190.07,2.527,Archimedes
+PDD021,210.07,2.665,Archimedes
+PDD021,230.07,2.774,Archimedes
+PDD021,250.07,2.696,Archimedes
+PDD021,270.07,2.734,Archimedes
+PDD021,290.07,2.696,Archimedes
+PDD021,310.07,2.653,Archimedes
+PDD021,330.07,2.711,Archimedes
+PDD021,350.07,2.684,Archimedes
+PDD021,370.07,2.731,Archimedes
+PDD021,390.07,2.665,Archimedes
+PDD021,410.07,2.671,Archimedes
+PDD021,430.07,2.703,Archimedes
+PDD021,450.07,2.663,Archimedes
+PDD021,470.07,2.745,Archimedes
+PDD021,490.07,2.711,Archimedes
+PDD021,510.07,2.733,Archimedes
+PDD021,530.07,2.674,Archimedes
+PDD021,550.07,2.651,Archimedes
+PDD021,570.07,2.707,Archimedes
+PDD021,590.07,2.735,Archimedes
+PDD021,610.07,2.616,Archimedes
+PDD021,630.07,2.667,Archimedes
+PDD021,650.07,2.595,Archimedes
+PDD021,670.07,2.604,Archimedes
+PDD021,690.07,2.618,Archimedes
+PDD021,710.07,2.569,Archimedes
+PDD021,730.07,2.598,Archimedes
+PDD022,12.90,2.279,Archimedes (wax-coated)
+PDD022,32.90,2.224,Archimedes (wax-coated)
+PDD022,52.90,2.280,Archimedes (wax-coated)
+PDD022,72.90,2.275,Archimedes (wax-coated)
+PDD022,92.90,2.374,Archimedes (wax-coated)
+PDD022,112.90,2.502,Archimedes
+PDD022,132.90,2.478,Archimedes
+PDD022,152.90,2.539,Archimedes
+PDD022,172.90,2.456,Archimedes
+PDD022,192.90,2.548,Archimedes
+PDD022,212.90,2.714,Archimedes
+PDD022,232.90,2.684,Archimedes
+PDD022,252.90,2.663,Archimedes
+PDD022,272.90,2.740,Archimedes
+PDD022,292.90,2.656,Archimedes
+PDD022,312.90,2.694,Archimedes
+PDD022,332.90,2.672,Archimedes
+PDD022,352.90,2.660,Archimedes
+PDD022,372.90,2.611,Archimedes
+PDD022,392.90,2.653,Archimedes
+PDD022,412.90,2.598,Archimedes
+PDD022,432.90,2.636,Archimedes
+PDD022,452.90,2.628,Archimedes
+PDD022,472.90,2.642,Archimedes
+PDD022,492.90,2.569,Archimedes
+PDD022,512.90,2.582,Archimedes
+PDD022,532.90,2.672,Archimedes
+PDD022,552.90,2.684,Archimedes
+PDD022,572.90,2.704,Archimedes
+PDD022,592.90,2.708,Archimedes
+PDD023,14.92,2.190,Archimedes (wax-coated)
+PDD023,34.92,2.232,Archimedes (wax-coated)
+PDD023,54.92,2.303,Archimedes (wax-coated)
+PDD023,74.92,2.340,Archimedes (wax-coated)
+PDD023,94.92,2.443,Archimedes (wax-coated)
+PDD023,114.92,2.579,Archimedes
+PDD023,134.92,2.536,Archimedes
+PDD023,154.92,2.540,Archimedes
+PDD023,174.92,2.485,Archimedes
+PDD023,194.92,2.677,Archimedes
+PDD023,214.92,2.669,Archimedes
+PDD023,234.92,2.667,Archimedes
+PDD023,254.92,2.720,Archimedes
+PDD023,274.92,2.723,Archimedes
+PDD023,294.92,2.697,Archimedes
+PDD023,314.92,2.635,Archimedes
+PDD023,334.92,2.696,Archimedes
+PDD023,354.92,2.728,Archimedes
+PDD023,374.92,2.697,Archimedes
+PDD023,394.92,2.704,Archimedes
+PDD023,414.92,2.674,Archimedes
+PDD023,434.92,2.770,Archimedes
+PDD023,454.92,2.686,Archimedes
+PDD023,474.92,2.791,Archimedes
+PDD023,494.92,2.657,Archimedes
+PDD023,514.92,2.724,Archimedes
+PDD023,534.92,2.657,Archimedes
+PDD023,554.92,2.680,Archimedes
+PDD023,574.92,2.771,Archimedes
+PDD023,594.92,2.726,Archimedes
+PDD023,614.92,2.687,Archimedes
+PDD024,12.80,2.214,Archimedes (wax-coated)
+PDD024,32.80,2.236,Archimedes (wax-coated)
+PDD024,52.80,2.172,Archimedes (wax-coated)
+PDD024,72.80,2.402,Archimedes (wax-coated)
+PDD024,92.80,2.529,Archimedes
+PDD024,112.80,2.514,Archimedes
+PDD024,132.80,2.505,Archimedes
+PDD024,152.80,2.554,Archimedes
+PDD024,172.80,2.482,Archimedes
+PDD024,192.80,2.547,Archimedes
+PDD024,212.80,2.487,Archimedes
+PDD024,232.80,2.447,Archimedes
+PDD024,252.80,2.654,Archimedes
+PDD024,272.80,2.729,Archimedes
+PDD024,292.80,2.690,Archimedes
+PDD024,312.80,2.723,Archimedes
+PDD024,332.80,2.700,Archimedes
+PDD024,352.80,2.693,Archimedes
+PDD024,372.80,2.744,Archimedes
+PDD024,392.80,2.690,Archimedes
+PDD024,412.80,2.716,Archimedes
+PDD024,432.80,2.699,Archimedes
+PDD024,452.80,2.687,Archimedes
+PDD024,472.80,2.700,Archimedes
+PDD024,492.80,2.763,Archimedes
+PDD024,512.80,2.679,Archimedes
+PDD024,532.80,2.699,Archimedes
+PDD024,552.80,2.750,Archimedes
+PDD024,572.80,2.689,Archimedes
+PDD025,7.30,2.248,Archimedes (wax-coated)
+PDD025,27.30,2.305,Archimedes (wax-coated)
+PDD025,47.30,2.416,Archimedes (wax-coated)
+PDD025,67.30,2.472,Archimedes
+PDD025,87.30,2.550,Archimedes
+PDD025,107.30,2.714,Archimedes
+PDD025,127.30,2.663,Archimedes
+PDD025,147.30,2.780,Archimedes
+PDD025,167.30,2.714,Archimedes
+PDD025,187.30,2.704,Archimedes
+PDD025,207.30,2.739,Archimedes
+PDD025,227.30,2.627,Archimedes
+PDD025,247.30,2.654,Archimedes
+PDD025,267.30,2.714,Archimedes
+PDD025,287.30,2.766,Archimedes
+PDD025,307.30,2.694,Archimedes
+PDD025,327.30,2.653,Archimedes
+PDD025,347.30,2.690,Archimedes
+PDD025,367.30,2.692,Archimedes
+PDD025,387.30,2.729,Archimedes
+PDD025,407.30,2.689,Archimedes
+PDD025,427.30,2.737,Archimedes
+PDD025,447.30,2.560,Archimedes
+PDD025,467.30,2.657,Archimedes
+PDD025,487.30,2.661,Archimedes
+PDD025,507.30,2.634,Archimedes
+PDD025,527.30,2.635,Archimedes
+PDD025,547.30,2.586,Archimedes
+PDD025,567.30,2.657,Archimedes
+PDD025,587.30,2.626,Archimedes
+PDD025,607.30,2.651,Archimedes
+PDD025,627.30,2.637,Archimedes
+PDD025,647.30,2.599,Archimedes
+PDD025,667.30,2.666,Archimedes
+PDD025,687.30,2.631,Archimedes
+PDD025,707.30,2.578,Archimedes
+PDD025,727.30,2.545,Archimedes
+PDD025,747.30,2.636,Archimedes
+PDD026,18.04,2.305,Archimedes (wax-coated)
+PDD026,38.04,2.273,Archimedes (wax-coated)
+PDD026,58.04,2.542,Archimedes
+PDD026,78.04,2.543,Archimedes
+PDD026,98.04,2.681,Archimedes
+PDD026,118.04,2.721,Archimedes
+PDD026,138.04,2.651,Archimedes
+PDD026,158.04,2.703,Archimedes
+PDD026,178.04,2.718,Archimedes
+PDD026,198.04,2.690,Archimedes
+PDD026,218.04,2.688,Archimedes
+PDD026,238.04,2.667,Archimedes
+PDD026,258.04,2.610,Archimedes
+PDD026,278.04,2.606,Archimedes
+PDD026,298.04,2.573,Archimedes
+PDD026,318.04,2.744,Archimedes
+PDD026,338.04,2.740,Archimedes
+PDD026,358.04,2.721,Archimedes
+PDD026,378.04,2.756,Archimedes
+PDD026,398.04,2.708,Archimedes
+PDD026,418.04,2.668,Archimedes
+PDD026,438.04,2.730,Archimedes
+PDD026,458.04,2.694,Archimedes
+PDD026,478.04,2.671,Archimedes
+PDD026,498.04,2.706,Archimedes
+PDD026,518.04,2.717,Archimedes
+PDD026,538.04,2.702,Archimedes
+PDD026,558.04,2.700,Archimedes
+PDD026,578.04,2.589,Archimedes
+PDD027,17.86,2.236,Archimedes (wax-coated)
+PDD027,37.86,2.211,Archimedes (wax-coated)
+PDD027,57.86,2.249,Archimedes (wax-coated)
+PDD027,77.86,2.395,Archimedes (wax-coated)
+PDD027,97.86,2.523,Archimedes
+PDD027,117.86,2.683,Archimedes
+PDD027,137.86,2.680,Archimedes
+PDD027,157.86,2.732,Archimedes
+PDD027,177.86,2.733,Archimedes
+PDD027,197.86,2.626,Archimedes
+PDD027,217.86,2.670,Archimedes
+PDD027,237.86,2.709,Archimedes
+PDD027,257.86,2.713,Archimedes
+PDD027,277.86,2.750,Archimedes
+PDD027,297.86,2.681,Archimedes
+PDD027,317.86,2.686,Archimedes
+PDD027,337.86,2.632,Archimedes
+PDD027,357.86,2.675,Archimedes
+PDD027,377.86,2.750,Archimedes
+PDD027,397.86,2.739,Archimedes
+PDD027,417.86,2.744,Archimedes
+PDD027,437.86,2.633,Archimedes
+PDD027,457.86,2.677,Archimedes
+PDD027,477.86,2.685,Archimedes
+PDD027,497.86,2.730,Archimedes
+PDD027,517.86,2.665,Archimedes
+PDD027,537.86,2.702,Archimedes
+PDD028,12.10,1.907,Archimedes (wax-coated)
+PDD028,32.10,2.293,Archimedes (wax-coated)
+PDD028,52.10,2.402,Archimedes (wax-coated)
+PDD028,72.10,2.435,Archimedes (wax-coated)
+PDD028,92.10,2.520,Archimedes
+PDD028,112.10,2.550,Archimedes
+PDD028,132.10,2.518,Archimedes
+PDD028,152.10,2.705,Archimedes
+PDD028,172.10,2.689,Archimedes
+PDD028,192.10,2.733,Archimedes
+PDD028,212.10,2.732,Archimedes
+PDD028,232.10,2.686,Archimedes
+PDD028,252.10,2.724,Archimedes
+PDD028,272.10,2.720,Archimedes
+PDD028,292.10,2.756,Archimedes
+PDD028,312.10,2.729,Archimedes
+PDD028,332.10,2.806,Archimedes
+PDD028,352.10,2.605,Archimedes
+PDD028,372.10,2.662,Archimedes
+PDD028,392.10,2.642,Archimedes
+PDD028,412.10,2.607,Archimedes
+PDD028,432.10,2.684,Archimedes
+PDD028,452.10,2.648,Archimedes
+PDD028,472.10,2.650,Archimedes
+PDD028,492.10,2.619,Archimedes
+PDD028,512.10,2.568,Archimedes
+PDD028,532.10,2.532,Archimedes
+PDD028,552.10,2.640,Archimedes
+PDD028,572.10,2.630,Archimedes
+PDD028,592.10,2.684,Archimedes
+PDD028,612.10,2.626,Archimedes
+PDD028,632.10,2.622,Archimedes
+PDD028,652.10,2.567,Archimedes
+PDD029,5.02,1.937,Archimedes (wax-coated)
+PDD029,25.02,2.213,Archimedes (wax-coated)
+PDD029,45.02,2.254,Archimedes (wax-coated)
+PDD029,65.02,2.273,Archimedes (wax-coated)
+PDD029,85.02,2.413,Archimedes (wax-coated)
+PDD029,105.02,2.451,Archimedes (wax-coated)
+PDD029,125.02,2.531,Archimedes
+PDD029,145.02,2.522,Archimedes
+PDD029,165.02,2.493,Archimedes
+PDD029,185.02,2.515,Archimedes
+PDD029,205.02,2.489,Archimedes
+PDD029,225.02,2.553,Archimedes
+PDD029,245.02,2.736,Archimedes
+PDD029,265.02,2.683,Archimedes
+PDD029,285.02,2.600,Archimedes
+PDD029,305.02,2.639,Archimedes
+PDD029,325.02,2.622,Archimedes
+PDD029,345.02,2.584,Archimedes
+PDD029,365.02,2.574,Archimedes
+PDD029,385.02,2.578,Archimedes
+PDD029,405.02,2.608,Archimedes
+PDD029,425.02,2.577,Archimedes
+PDD029,445.02,2.657,Archimedes
+PDD029,465.02,2.610,Archimedes
+PDD029,485.02,2.560,Archimedes
+PDD029,505.02,2.552,Archimedes
+PDD029,525.02,2.630,Archimedes
+PDD029,545.02,2.614,Archimedes
+PDD029,565.02,2.654,Archimedes
+PDD029,585.02,2.637,Archimedes
+PDD029,605.02,2.648,Archimedes
+PDD029,625.02,2.637,Archimedes
+PDD029,645.02,2.622,Archimedes
+PDD029,665.02,2.549,Archimedes
+PDD030,14.91,2.245,Archimedes (wax-coated)
+PDD030,34.91,2.239,Archimedes (wax-coated)
+PDD030,54.91,2.283,Archimedes (wax-coated)
+PDD030,74.91,2.406,Archimedes (wax-coated)
+PDD030,94.91,2.401,Archimedes (wax-coated)
+PDD030,114.91,2.617,Archimedes
+PDD030,134.91,2.533,Archimedes
+PDD030,154.91,2.559,Archimedes
+PDD030,174.91,2.487,Archimedes
+PDD030,194.91,2.706,Archimedes
+PDD030,214.91,2.695,Archimedes
+PDD030,234.91,2.596,Archimedes
+PDD030,254.91,2.670,Archimedes
+PDD030,274.91,2.599,Archimedes
+PDD030,294.91,2.608,Archimedes
+PDD030,314.91,2.624,Archimedes
+PDD030,334.91,2.686,Archimedes
+PDD030,354.91,2.634,Archimedes
+PDD030,374.91,2.600,Archimedes
+PDD030,394.91,2.665,Archimedes
+PDD030,414.91,2.704,Archimedes
+PDD030,434.91,2.691,Archimedes
+PDD030,454.91,2.704,Archimedes
+PDD030,474.91,2.701,Archimedes
+PDD030,494.91,2.736,Archimedes
+PDD030,514.91,2.809,Archimedes
+PDD030,534.91,2.683,Archimedes
+PDD030,554.91,2.605,Archimedes
+PDD030,574.91,2.620,Archimedes
+PDD030,594.91,2.663,Archimedes
+PDD030,614.91,2.615,Archimedes
+PDD030,634.91,2.600,Archimedes
+PDD031,14.84,2.233,Archimedes (wax-coated)
+PDD031,34.84,2.209,Archimedes (wax-coated)
+PDD031,54.84,2.336,Archimedes (wax-coated)
+PDD031,74.84,2.385,Archimedes (wax-coated)
+PDD031,94.84,2.342,Archimedes (wax-coated)
+PDD031,114.84,2.546,Archimedes
+PDD031,134.84,2.536,Archimedes
+PDD031,154.84,2.503,Archimedes
+PDD031,174.84,2.558,Archimedes
+PDD031,194.84,2.617,Archimedes
+PDD031,214.84,2.584,Archimedes
+PDD031,234.84,2.581,Archimedes
+PDD031,254.84,2.606,Archimedes
+PDD031,274.84,2.592,Archimedes
+PDD031,294.84,2.569,Archimedes
+PDD031,314.84,2.633,Archimedes
+PDD031,334.84,2.625,Archimedes
+PDD031,354.84,2.646,Archimedes
+PDD031,374.84,2.610,Archimedes
+PDD031,394.84,2.626,Archimedes
+PDD031,414.84,2.655,Archimedes
+PDD031,434.84,2.628,Archimedes
+PDD031,454.84,2.655,Archimedes
+PDD031,474.84,2.644,Archimedes
+PDD031,494.84,2.640,Archimedes
+PDD031,514.84,2.658,Archimedes
+PDD031,534.84,2.584,Archimedes
+PDD031,554.84,2.628,Archimedes
+PDD032,17.19,2.295,Archimedes (wax-coated)
+PDD032,37.19,2.260,Archimedes (wax-coated)
+PDD032,57.19,2.209,Archimedes (wax-coated)
+PDD032,77.19,2.415,Archimedes (wax-coated)
+PDD032,97.19,2.558,Archimedes
+PDD032,117.19,2.566,Archimedes
+PDD032,137.19,2.492,Archimedes
+PDD032,157.19,2.494,Archimedes
+PDD032,177.19,2.542,Archimedes
+PDD032,197.19,2.620,Archimedes
+PDD032,217.19,2.672,Archimedes
+PDD032,237.19,2.610,Archimedes
+PDD032,257.19,2.619,Archimedes
+PDD032,277.19,2.641,Archimedes
+PDD032,297.19,2.657,Archimedes
+PDD032,317.19,2.628,Archimedes
+PDD032,337.19,2.644,Archimedes
+PDD032,357.19,2.606,Archimedes
+PDD032,377.19,2.670,Archimedes
+PDD032,397.19,2.671,Archimedes
+PDD032,417.19,2.636,Archimedes
+PDD032,437.19,2.606,Archimedes
+PDD032,457.19,2.584,Archimedes
+PDD032,477.19,2.587,Archimedes
+PDD032,497.19,2.619,Archimedes
+PDD032,517.19,2.590,Archimedes
+PDD032,537.19,2.624,Archimedes
+PDD032,557.19,2.631,Archimedes
+PDD032,577.19,2.616,Archimedes
+PDD032,597.19,2.602,Archimedes
+PDD032,617.19,2.611,Archimedes
+PDD032,637.19,2.636,Archimedes
+PDD032,657.19,2.658,Archimedes
+PDD032,677.19,2.578,Archimedes
+PDD032,697.19,2.559,Archimedes
+PDD032,717.19,2.585,Archimedes
+PDD033,16.96,2.216,Archimedes (wax-coated)
+PDD033,36.96,2.305,Archimedes (wax-coated)
+PDD033,56.96,2.205,Archimedes (wax-coated)
+PDD033,76.96,2.307,Archimedes (wax-coated)
+PDD033,96.96,2.319,Archimedes (wax-coated)
+PDD033,116.96,2.567,Archimedes
+PDD033,136.96,2.508,Archimedes
+PDD033,156.96,2.503,Archimedes
+PDD033,176.96,2.541,Archimedes
+PDD033,196.96,2.470,Archimedes
+PDD033,216.96,2.459,Archimedes
+PDD033,236.96,2.547,Archimedes
+PDD033,256.96,2.565,Archimedes
+PDD033,276.96,2.564,Archimedes
+PDD033,296.96,2.554,Archimedes
+PDD033,316.96,2.611,Archimedes
+PDD033,336.96,2.613,Archimedes
+PDD033,356.96,2.597,Archimedes
+PDD033,376.96,2.600,Archimedes
+PDD033,396.96,2.656,Archimedes
+PDD033,416.96,2.602,Archimedes
+PDD033,436.96,2.627,Archimedes
+PDD033,456.96,2.612,Archimedes
+PDD033,476.96,2.664,Archimedes
+PDD033,496.96,2.635,Archimedes
+PDD033,516.96,2.584,Archimedes
+PDD033,536.96,2.569,Archimedes
+PDD033,556.96,2.558,Archimedes
+PDD034,11.68,2.363,Archimedes (wax-coated)
+PDD034,31.68,2.273,Archimedes (wax-coated)
+PDD034,51.68,2.316,Archimedes (wax-coated)
+PDD034,71.68,2.375,Archimedes (wax-coated)
+PDD034,91.68,2.511,Archimedes
+PDD034,111.68,2.504,Archimedes
+PDD034,131.68,2.492,Archimedes
+PDD034,151.68,2.729,Archimedes
+PDD034,171.68,2.771,Archimedes
+PDD034,191.68,2.706,Archimedes
+PDD034,211.68,2.723,Archimedes
+PDD034,231.68,2.721,Archimedes
+PDD034,251.68,2.659,Archimedes
+PDD034,271.68,2.749,Archimedes
+PDD034,291.68,2.691,Archimedes
+PDD034,311.68,2.667,Archimedes
+PDD034,331.68,2.724,Archimedes
+PDD034,351.68,2.598,Archimedes
+PDD034,371.68,2.569,Archimedes
+PDD034,391.68,2.528,Archimedes
+PDD034,411.68,2.665,Archimedes
+PDD034,431.68,2.748,Archimedes
+PDD034,451.68,2.699,Archimedes
+PDD034,471.68,2.655,Archimedes
+PDD034,491.68,2.703,Archimedes
+PDD034,511.68,2.673,Archimedes
+PDD034,531.68,2.667,Archimedes
+PDD034,551.68,2.656,Archimedes
+PDD034,571.68,2.602,Archimedes
+PDD034,591.68,2.609,Archimedes
+PDD034,611.68,2.595,Archimedes
+PDD035,6.50,2.285,Archimedes (wax-coated)
+PDD035,26.50,2.239,Archimedes (wax-coated)
+PDD035,46.50,2.184,Archimedes (wax-coated)
+PDD035,66.50,2.386,Archimedes (wax-coated)
+PDD035,86.50,2.472,Archimedes
+PDD035,106.50,2.603,Archimedes
+PDD035,126.50,2.578,Archimedes
+PDD035,146.50,2.656,Archimedes
+PDD035,166.50,2.695,Archimedes
+PDD035,186.50,2.713,Archimedes
+PDD035,206.50,2.722,Archimedes
+PDD035,226.50,2.572,Archimedes
+PDD035,246.50,2.616,Archimedes
+PDD035,266.50,2.595,Archimedes
+PDD035,286.50,2.485,Archimedes
+PDD035,306.50,2.543,Archimedes
+PDD035,326.50,2.545,Archimedes
+PDD035,346.50,2.558,Archimedes
+PDD035,366.50,2.615,Archimedes
+PDD035,386.50,2.656,Archimedes
+PDD035,406.50,2.647,Archimedes
+PDD035,426.50,2.566,Archimedes
+PDD035,446.50,2.606,Archimedes
+PDD035,466.50,2.712,Archimedes
+PDD035,486.50,2.639,Archimedes
+PDD035,506.50,2.586,Archimedes
+PDD035,526.50,2.655,Archimedes
+PDD035,546.50,2.621,Archimedes
+PDD035,566.50,2.584,Archimedes
+PDD035,586.50,2.598,Archimedes
+PDD035,606.50,2.572,Archimedes
+PDD035,626.50,2.586,Archimedes
+PDD036,7.36,2.225,Archimedes (wax-coated)
+PDD036,27.36,2.302,Archimedes (wax-coated)
+PDD036,47.36,2.229,Archimedes (wax-coated)
+PDD036,67.36,2.429,Archimedes (wax-coated)
+PDD036,87.36,2.429,Archimedes (wax-coated)
+PDD036,107.36,2.503,Archimedes
+PDD036,127.36,2.529,Archimedes
+PDD036,147.36,2.706,Archimedes
+PDD036,167.36,2.690,Archimedes
+PDD036,187.36,2.640,Archimedes
+PDD036,207.36,2.715,Archimedes
+PDD036,227.36,2.742,Archimedes
+PDD036,247.36,2.682,Archimedes
+PDD036,267.36,2.710,Archimedes
+PDD036,287.36,2.701,Archimedes
+PDD036,307.36,2.693,Archimedes
+PDD036,327.36,2.667,Archimedes
+PDD036,347.36,2.646,Archimedes
+PDD036,367.36,2.737,Archimedes
+PDD036,387.36,2.550,Archimedes
+PDD036,407.36,2.533,Archimedes
+PDD036,427.36,2.588,Archimedes
+PDD036,447.36,2.577,Archimedes
+PDD036,467.36,2.568,Archimedes
+PDD036,487.36,2.630,Archimedes
+PDD036,507.36,2.534,Archimedes
+PDD036,527.36,2.648,Archimedes
+PDD036,547.36,2.606,Archimedes
+PDD036,567.36,2.603,Archimedes
+PDD036,587.36,2.598,Archimedes
+PDD036,607.36,2.625,Archimedes
+PDD036,627.36,2.574,Archimedes
+PDD036,647.36,2.645,Archimedes
+PDD036,667.36,2.651,Archimedes
+PDD036,687.36,2.580,Archimedes
+PDD037,11.69,1.946,Archimedes (wax-coated)
+PDD037,31.69,2.387,Archimedes (wax-coated)
+PDD037,51.69,2.520,Archimedes
+PDD037,71.69,2.547,Archimedes
+PDD037,91.69,2.483,Archimedes
+PDD037,111.69,2.536,Archimedes
+PDD037,131.69,2.671,Archimedes
+PDD037,151.69,2.684,Archimedes
+PDD037,171.69,2.672,Archimedes
+PDD037,191.69,2.660,Archimedes
+PDD037,211.69,2.688,Archimedes
+PDD037,231.69,2.721,Archimedes
+PDD037,251.69,2.665,Archimedes
+PDD037,271.69,2.694,Archimedes
+PDD037,291.69,2.703,Archimedes
+PDD037,311.69,2.750,Archimedes
+PDD037,331.69,2.717,Archimedes
+PDD037,351.69,2.702,Archimedes
+PDD037,371.69,2.715,Archimedes
+PDD037,391.69,2.720,Archimedes
+PDD037,411.69,2.657,Archimedes
+PDD037,431.69,2.624,Archimedes
+PDD037,451.69,2.624,Archimedes
+PDD037,471.69,2.606,Archimedes
+PDD037,491.69,2.572,Archimedes
+PDD037,511.69,2.667,Archimedes
+PDD037,531.69,2.665,Archimedes
+PDD037,551.69,2.600,Archimedes
+PDD037,571.69,2.604,Archimedes
+PDD037,591.69,2.604,Archimedes
+PDD037,611.69,2.632,Archimedes
+PDD037,631.69,2.620,Archimedes
+PDD037,651.69,2.587,Archimedes
+PDD037,671.69,2.632,Archimedes
+PDD037,691.69,2.673,Archimedes
+PDD037,711.69,2.657,Archimedes
+PDD037,731.69,2.640,Archimedes
+PDD037,751.69,2.678,Archimedes
+PDD037,771.69,2.609,Archimedes
+PDD038,13.85,2.233,Archimedes (wax-coated)
+PDD038,33.85,2.228,Archimedes (wax-coated)
+PDD038,53.85,2.174,Archimedes (wax-coated)
+PDD038,73.85,2.337,Archimedes (wax-coated)
+PDD038,93.85,2.416,Archimedes (wax-coated)
+PDD038,113.85,2.499,Archimedes
+PDD038,133.85,2.459,Archimedes
+PDD038,153.85,2.463,Archimedes
+PDD038,173.85,2.677,Archimedes
+PDD038,193.85,2.710,Archimedes
+PDD038,213.85,2.748,Archimedes
+PDD038,233.85,2.660,Archimedes
+PDD038,253.85,2.642,Archimedes
+PDD038,273.85,2.685,Archimedes
+PDD038,293.85,2.609,Archimedes
+PDD038,313.85,2.693,Archimedes
+PDD038,333.85,2.592,Archimedes
+PDD038,353.85,2.554,Archimedes
+PDD038,373.85,2.660,Archimedes
+PDD038,393.85,2.626,Archimedes
+PDD038,413.85,2.648,Archimedes
+PDD038,433.85,2.637,Archimedes
+PDD038,453.85,2.665,Archimedes
+PDD038,473.85,2.605,Archimedes
+PDD038,493.85,2.591,Archimedes
+PDD038,513.85,2.630,Archimedes
+PDD038,533.85,2.652,Archimedes
+PDD038,553.85,2.564,Archimedes
+PDD038,573.85,2.652,Archimedes
+PDD038,593.85,2.662,Archimedes
+PDD038,613.85,2.583,Archimedes
+PDD038,633.85,2.653,Archimedes
+PDD038,653.85,2.628,Archimedes
+PDD038,673.85,2.642,Archimedes
+PDD038,693.85,2.654,Archimedes
+PDD038,713.85,2.629,Archimedes
+PDD038,733.85,2.601,Archimedes
+PDD038,753.85,2.620,Archimedes
+PDD038,773.85,2.615,Archimedes
+PDD038,793.85,2.592,Archimedes
+PDD039,17.62,2.176,Archimedes (wax-coated)
+PDD039,37.62,2.219,Archimedes (wax-coated)
+PDD039,57.62,2.224,Archimedes (wax-coated)
+PDD039,77.62,2.416,Archimedes (wax-coated)
+PDD039,97.62,2.414,Archimedes (wax-coated)
+PDD039,117.62,2.449,Archimedes
+PDD039,137.62,2.547,Archimedes
+PDD039,157.62,2.520,Archimedes
+PDD039,177.62,2.627,Archimedes
+PDD039,197.62,2.766,Archimedes
+PDD039,217.62,2.766,Archimedes
+PDD039,237.62,2.655,Archimedes
+PDD039,257.62,2.602,Archimedes
+PDD039,277.62,2.635,Archimedes
+PDD039,297.62,2.633,Archimedes
+PDD039,317.62,2.583,Archimedes
+PDD039,337.62,2.615,Archimedes
+PDD039,357.62,2.627,Archimedes
+PDD039,377.62,2.712,Archimedes
+PDD039,397.62,2.756,Archimedes
+PDD039,417.62,2.686,Archimedes
+PDD039,437.62,2.739,Archimedes
+PDD039,457.62,2.720,Archimedes
+PDD039,477.62,2.640,Archimedes
+PDD039,497.62,2.607,Archimedes
+PDD039,517.62,2.605,Archimedes
+PDD039,537.62,2.644,Archimedes
+PDD039,557.62,2.588,Archimedes
+PDD039,577.62,2.639,Archimedes
+PDD039,597.62,2.613,Archimedes
+PDD039,617.62,2.644,Archimedes
+PDD039,637.62,2.634,Archimedes
+PDD039,657.62,2.610,Archimedes
+PDD039,677.62,2.625,Archimedes
+PDD039,697.62,2.615,Archimedes
+PDD039,717.62,2.538,Archimedes
+PDD039,737.62,2.643,Archimedes
+PDD039,757.62,2.603,Archimedes
+PDD039,777.62,2.620,Archimedes
+PDD040,16.00,2.233,Archimedes (wax-coated)
+PDD040,36.00,2.283,Archimedes (wax-coated)
+PDD040,56.00,2.223,Archimedes (wax-coated)
+PDD040,76.00,2.566,Archimedes
+PDD040,96.00,2.508,Archimedes
+PDD040,116.00,2.584,Archimedes
+PDD040,136.00,2.515,Archimedes
+PDD040,156.00,2.477,Archimedes
+PDD040,176.00,2.558,Archimedes
+PDD040,196.00,2.656,Archimedes
+PDD040,216.00,2.646,Archimedes
+PDD040,236.00,2.579,Archimedes
+PDD040,256.00,2.669,Archimedes
+PDD040,276.00,2.666,Archimedes
+PDD040,296.00,2.682,Archimedes
+PDD040,316.00,2.644,Archimedes
+PDD040,336.00,2.609,Archimedes
+PDD040,356.00,2.633,Archimedes
+PDD040,376.00,2.610,Archimedes
+PDD040,396.00,2.651,Archimedes
+PDD040,416.00,2.604,Archimedes
+PDD040,436.00,2.635,Archimedes
+PDD040,456.00,2.618,Archimedes
+PDD040,476.00,2.582,Archimedes
+PDD040,496.00,2.598,Archimedes
+PDD040,516.00,2.611,Archimedes
+PDD041,13.03,2.219,Archimedes (wax-coated)
+PDD041,33.03,2.239,Archimedes (wax-coated)
+PDD041,53.03,2.341,Archimedes (wax-coated)
+PDD041,73.03,2.561,Archimedes
+PDD041,93.03,2.545,Archimedes
+PDD041,113.03,2.503,Archimedes
+PDD041,133.03,2.506,Archimedes
+PDD041,153.03,2.519,Archimedes
+PDD041,173.03,2.471,Archimedes
+PDD041,193.03,2.573,Archimedes
+PDD041,213.03,2.575,Archimedes
+PDD041,233.03,2.521,Archimedes
+PDD041,253.03,2.635,Archimedes
+PDD041,273.03,2.646,Archimedes
+PDD041,293.03,2.609,Archimedes
+PDD041,313.03,2.634,Archimedes
+PDD041,333.03,2.538,Archimedes
+PDD041,353.03,2.550,Archimedes
+PDD041,373.03,2.618,Archimedes
+PDD041,393.03,2.597,Archimedes
+PDD041,413.03,2.607,Archimedes
+PDD041,433.03,2.645,Archimedes
+PDD041,453.03,2.638,Archimedes
+PDD041,473.03,2.584,Archimedes
+PDD041,493.03,2.516,Archimedes
+PDD041,513.03,2.576,Archimedes
+PDD041,533.03,2.577,Archimedes
+PDD041,553.03,2.574,Archimedes
+PDD041,573.03,2.571,Archimedes
+PDD041,593.03,2.575,Archimedes
+PDD042,15.45,2.267,Archimedes (wax-coated)
+PDD042,35.45,2.214,Archimedes (wax-coated)
+PDD042,55.45,2.271,Archimedes (wax-coated)
+PDD042,75.45,2.387,Archimedes (wax-coated)
+PDD042,95.45,2.413,Archimedes (wax-coated)
+PDD042,115.45,2.526,Archimedes
+PDD042,135.45,2.493,Archimedes
+PDD042,155.45,2.502,Archimedes
+PDD042,175.45,2.539,Archimedes
+PDD042,195.45,2.527,Archimedes
+PDD042,215.45,2.629,Archimedes
+PDD042,235.45,2.590,Archimedes
+PDD042,255.45,2.648,Archimedes
+PDD042,275.45,2.639,Archimedes
+PDD042,295.45,2.647,Archimedes
+PDD042,315.45,2.618,Archimedes
+PDD042,335.45,2.652,Archimedes
+PDD042,355.45,2.607,Archimedes
+PDD042,375.45,2.619,Archimedes
+PDD042,395.45,2.667,Archimedes
+PDD042,415.45,2.647,Archimedes
+PDD042,435.45,2.650,Archimedes
+PDD042,455.45,2.632,Archimedes
+PDD042,475.45,2.634,Archimedes
+PDD042,495.45,2.594,Archimedes
+PDD042,515.45,2.611,Archimedes
+PDD042,535.45,2.640,Archimedes
+PDD042,555.45,2.646,Archimedes
+PDD043,14.36,2.245,Archimedes (wax-coated)
+PDD043,34.36,2.314,Archimedes (wax-coated)
+PDD043,54.36,2.275,Archimedes (wax-coated)
+PDD043,74.36,2.312,Archimedes (wax-coated)
+PDD043,94.36,2.427,Archimedes (wax-coated)
+PDD043,114.36,2.500,Archimedes
+PDD043,134.36,2.490,Archimedes
+PDD043,154.36,2.503,Archimedes
+PDD043,174.36,2.710,Archimedes
+PDD043,194.36,2.757,Archimedes
+PDD043,214.36,2.692,Archimedes
+PDD043,234.36,2.644,Archimedes
+PDD043,254.36,2.614,Archimedes
+PDD043,274.36,2.570,Archimedes
+PDD043,294.36,2.640,Archimedes
+PDD043,314.36,2.551,Archimedes
+PDD043,334.36,2.684,Archimedes
+PDD043,354.36,2.619,Archimedes
+PDD043,374.36,2.696,Archimedes
+PDD043,394.36,2.632,Archimedes
+PDD043,414.36,2.609,Archimedes
+PDD043,434.36,2.662,Archimedes
+PDD043,454.36,2.638,Archimedes
+PDD043,474.36,2.668,Archimedes
+PDD043,494.36,2.651,Archimedes
+PDD043,514.36,2.694,Archimedes
+PDD043,534.36,2.612,Archimedes
+PDD043,554.36,2.607,Archimedes
+PDD043,574.36,2.597,Archimedes
+PDD043,594.36,2.645,Archimedes
+PDD043,614.36,2.677,Archimedes
+PDD043,634.36,2.583,Archimedes
+PDD043,654.36,2.599,Archimedes
+PDD043,674.36,2.610,Archimedes
+PDD044,11.74,2.235,Archimedes (wax-coated)
+PDD044,31.74,2.283,Archimedes (wax-coated)
+PDD044,51.74,2.227,Archimedes (wax-coated)
+PDD044,71.74,2.310,Archimedes (wax-coated)
+PDD044,91.74,2.234,Archimedes (wax-coated)
+PDD044,111.74,2.432,Archimedes (wax-coated)
+PDD044,131.74,2.540,Archimedes
+PDD044,151.74,2.476,Archimedes
+PDD044,171.74,2.537,Archimedes
+PDD044,191.74,2.494,Archimedes
+PDD044,211.74,2.578,Archimedes
+PDD044,231.74,2.554,Archimedes
+PDD044,251.74,2.637,Archimedes
+PDD044,271.74,2.538,Archimedes
+PDD044,291.74,2.549,Archimedes
+PDD044,311.74,2.574,Archimedes
+PDD044,331.74,2.664,Archimedes
+PDD044,351.74,2.642,Archimedes
+PDD044,371.74,2.642,Archimedes
+PDD044,391.74,2.629,Archimedes
+PDD044,411.74,2.582,Archimedes
+PDD044,431.74,2.527,Archimedes
+PDD044,451.74,2.581,Archimedes
+PDD044,471.74,2.611,Archimedes
+PDD044,491.74,2.650,Archimedes
+PDD044,511.74,2.627,Archimedes
+PDD044,531.74,2.550,Archimedes
+PDD044,551.74,2.645,Archimedes
+PDD044,571.74,2.587,Archimedes
+PDD044,591.74,2.616,Archimedes
+PDD044,611.74,2.627,Archimedes
+PDD044,631.74,2.659,Archimedes
+PDD044,651.74,2.628,Archimedes
+PDD044,671.74,2.648,Archimedes
+PDD045,15.12,2.232,Archimedes (wax-coated)
+PDD045,35.12,2.257,Archimedes (wax-coated)
+PDD045,55.12,2.231,Archimedes (wax-coated)
+PDD045,75.12,2.280,Archimedes (wax-coated)
+PDD045,95.12,2.417,Archimedes (wax-coated)
+PDD045,115.12,2.386,Archimedes (wax-coated)
+PDD045,135.12,2.547,Archimedes
+PDD045,155.12,2.530,Archimedes
+PDD045,175.12,2.569,Archimedes
+PDD045,195.12,2.660,Archimedes
+PDD045,215.12,2.684,Archimedes
+PDD045,235.12,2.663,Archimedes
+PDD045,255.12,2.723,Archimedes
+PDD045,275.12,2.744,Archimedes
+PDD045,295.12,2.672,Archimedes
+PDD045,315.12,2.699,Archimedes
+PDD045,335.12,2.605,Archimedes
+PDD045,355.12,2.676,Archimedes
+PDD045,375.12,2.567,Archimedes
+PDD045,395.12,2.528,Archimedes
+PDD045,415.12,2.572,Archimedes
+PDD045,435.12,2.581,Archimedes
+PDD045,455.12,2.641,Archimedes
+PDD045,475.12,2.582,Archimedes
+PDD045,495.12,2.618,Archimedes
+PDD045,515.12,2.568,Archimedes
+PDD045,535.12,2.605,Archimedes
+PDD045,555.12,2.642,Archimedes
+PDD045,575.12,2.689,Archimedes
+PDD045,595.12,2.554,Archimedes
+PDD045,615.12,2.548,Archimedes
+PDD045,635.12,2.590,Archimedes
+PDD045,655.12,2.658,Archimedes
+PDD046,17.23,2.200,Archimedes (wax-coated)
+PDD046,37.23,2.412,Archimedes (wax-coated)
+PDD046,57.23,2.515,Archimedes
+PDD046,77.23,2.476,Archimedes
+PDD046,97.23,2.476,Archimedes
+PDD046,117.23,2.728,Archimedes
+PDD046,137.23,2.695,Archimedes
+PDD046,157.23,2.655,Archimedes
+PDD046,177.23,2.697,Archimedes
+PDD046,197.23,2.676,Archimedes
+PDD046,217.23,2.662,Archimedes
+PDD046,237.23,2.690,Archimedes
+PDD046,257.23,2.678,Archimedes
+PDD046,277.23,2.745,Archimedes
+PDD046,297.23,2.666,Archimedes
+PDD046,317.23,2.656,Archimedes
+PDD046,337.23,2.756,Archimedes
+PDD046,357.23,2.659,Archimedes
+PDD046,377.23,2.720,Archimedes
+PDD046,397.23,2.613,Archimedes
+PDD046,417.23,2.709,Archimedes
+PDD046,437.23,2.717,Archimedes
+PDD046,457.23,2.649,Archimedes
+PDD046,477.23,2.768,Archimedes
+PDD046,497.23,2.668,Archimedes
+PDD047,8.83,2.021,Archimedes (wax-coated)
+PDD047,28.83,2.431,Archimedes (wax-coated)
+PDD047,48.83,2.511,Archimedes
+PDD047,68.83,2.526,Archimedes
+PDD047,88.83,2.543,Archimedes
+PDD047,108.83,2.676,Archimedes
+PDD047,128.83,2.680,Archimedes
+PDD047,148.83,2.741,Archimedes
+PDD047,168.83,2.695,Archimedes
+PDD047,188.83,2.724,Archimedes
+PDD047,208.83,2.786,Archimedes
+PDD047,228.83,2.701,Archimedes
+PDD047,248.83,2.672,Archimedes
+PDD047,268.83,2.689,Archimedes
+PDD047,288.83,2.684,Archimedes
+PDD047,308.83,2.685,Archimedes
+PDD047,328.83,2.624,Archimedes
+PDD047,348.83,2.625,Archimedes
+PDD047,368.83,2.805,Archimedes
+PDD047,388.83,2.731,Archimedes
+PDD047,408.83,2.652,Archimedes
+PDD047,428.83,2.703,Archimedes
+PDD047,448.83,2.669,Archimedes
+PDD047,468.83,2.733,Archimedes
+PDD047,488.83,2.634,Archimedes
+PDD047,508.83,2.597,Archimedes
+PDD047,528.83,2.606,Archimedes
+PDD047,548.83,2.594,Archimedes
+PDD047,568.83,2.519,Archimedes
+PDD047,588.83,2.613,Archimedes
+PDD048,11.59,2.224,Archimedes (wax-coated)
+PDD048,31.59,2.237,Archimedes (wax-coated)
+PDD048,51.59,2.267,Archimedes (wax-coated)
+PDD048,71.59,2.428,Archimedes (wax-coated)
+PDD048,91.59,2.438,Archimedes (wax-coated)
+PDD048,111.59,2.499,Archimedes
+PDD048,131.59,2.577,Archimedes
+PDD048,151.59,2.744,Archimedes
+PDD048,171.59,2.682,Archimedes
+PDD048,191.59,2.713,Archimedes
+PDD048,211.59,2.717,Archimedes
+PDD048,231.59,2.722,Archimedes
+PDD048,251.59,2.752,Archimedes
+PDD048,271.59,2.748,Archimedes
+PDD048,291.59,2.628,Archimedes
+PDD048,311.59,2.611,Archimedes
+PDD048,331.59,2.616,Archimedes
+PDD048,351.59,2.574,Archimedes
+PDD048,371.59,2.674,Archimedes
+PDD048,391.59,2.656,Archimedes
+PDD048,411.59,2.640,Archimedes
+PDD048,431.59,2.661,Archimedes
+PDD048,451.59,2.560,Archimedes
+PDD048,471.59,2.659,Archimedes
+PDD048,491.59,2.612,Archimedes
+PDD048,511.59,2.649,Archimedes
+PDD048,531.59,2.629,Archimedes
+PDD049,7.78,2.223,Archimedes (wax-coated)
+PDD049,27.78,2.220,Archimedes (wax-coated)
+PDD049,47.78,2.254,Archimedes (wax-coated)
+PDD049,67.78,2.268,Archimedes (wax-coated)
+PDD049,87.78,2.427,Archimedes (wax-coated)
+PDD049,107.78,2.537,Archimedes
+PDD049,127.78,2.518,Archimedes
+PDD049,147.78,2.693,Archimedes
+PDD049,167.78,2.727,Archimedes
+PDD049,187.78,2.684,Archimedes
+PDD049,207.78,2.637,Archimedes
+PDD049,227.78,2.699,Archimedes
+PDD049,247.78,2.675,Archimedes
+PDD049,267.78,2.693,Archimedes
+PDD049,287.78,2.687,Archimedes
+PDD049,307.78,2.739,Archimedes
+PDD049,327.78,2.691,Archimedes
+PDD049,347.78,2.701,Archimedes
+PDD049,367.78,2.721,Archimedes
+PDD049,387.78,2.662,Archimedes
+PDD049,407.78,2.672,Archimedes
+PDD049,427.78,2.694,Archimedes
+PDD049,447.78,2.697,Archimedes
+PDD049,467.78,2.739,Archimedes
+PDD049,487.78,2.732,Archimedes
+PDD049,507.78,2.626,Archimedes
+PDD049,527.78,2.638,Archimedes
+PDD049,547.78,2.593,Archimedes
+PDD049,567.78,2.631,Archimedes
+PDD049,587.78,2.650,Archimedes
+PDD049,607.78,2.635,Archimedes
+PDD049,627.78,2.629,Archimedes
+PDD049,647.78,2.565,Archimedes
+PDD049,667.78,2.665,Archimedes
+PDD049,687.78,2.562,Archimedes
+PDD049,707.78,2.686,Archimedes
+PDD049,727.78,2.641,Archimedes
+PDD049,747.78,2.654,Archimedes
+PDD049,767.78,2.660,Archimedes
+PDD050,11.54,2.312,Archimedes (wax-coated)
+PDD050,31.54,2.290,Archimedes (wax-coated)
+PDD050,51.54,2.264,Archimedes (wax-coated)
+PDD050,71.54,2.320,Archimedes (wax-coated)
+PDD050,91.54,2.519,Archimedes
+PDD050,111.54,2.535,Archimedes
+PDD050,131.54,2.539,Archimedes
+PDD050,151.54,2.619,Archimedes
+PDD050,171.54,2.642,Archimedes
+PDD050,191.54,2.698,Archimedes
+PDD050,211.54,2.606,Archimedes
+PDD050,231.54,2.658,Archimedes
+PDD050,251.54,2.586,Archimedes
+PDD050,271.54,2.663,Archimedes
+PDD050,291.54,2.606,Archimedes
+PDD050,311.54,2.626,Archimedes
+PDD050,331.54,2.608,Archimedes
+PDD050,351.54,2.591,Archimedes
+PDD050,371.54,2.678,Archimedes
+PDD050,391.54,2.616,Archimedes
+PDD050,411.54,2.588,Archimedes
+PDD050,431.54,2.608,Archimedes
+PDD050,451.54,2.633,Archimedes
+PDD050,471.54,2.631,Archimedes
+PDD050,491.54,2.619,Archimedes
+PDD050,511.54,2.631,Archimedes
+PDD050,531.54,2.570,Archimedes
+PDD050,551.54,2.688,Archimedes
+PDD050,571.54,2.569,Archimedes
+PDD050,591.54,2.582,Archimedes
+PDD050,611.54,2.581,Archimedes
+PDD050,631.54,2.627,Archimedes
+PDD050,651.54,2.588,Archimedes
+PDD050,671.54,2.586,Archimedes
+PDD050,691.54,2.594,Archimedes
+PDD050,711.54,2.572,Archimedes
+PDD050,731.54,2.594,Archimedes
+PDD050,751.54,2.628,Archimedes
+PDD051,12.71,2.271,Archimedes (wax-coated)
+PDD051,32.71,2.249,Archimedes (wax-coated)
+PDD051,52.71,2.263,Archimedes (wax-coated)
+PDD051,72.71,2.424,Archimedes (wax-coated)
+PDD051,92.71,2.431,Archimedes (wax-coated)
+PDD051,112.71,2.506,Archimedes
+PDD051,132.71,2.516,Archimedes
+PDD051,152.71,2.568,Archimedes
+PDD051,172.71,2.546,Archimedes
+PDD051,192.71,2.492,Archimedes
+PDD051,212.71,2.601,Archimedes
+PDD051,232.71,2.609,Archimedes
+PDD051,252.71,2.694,Archimedes
+PDD051,272.71,2.642,Archimedes
+PDD051,292.71,2.602,Archimedes
+PDD051,312.71,2.598,Archimedes
+PDD051,332.71,2.640,Archimedes
+PDD051,352.71,2.669,Archimedes
+PDD051,372.71,2.653,Archimedes
+PDD051,392.71,2.627,Archimedes
+PDD051,412.71,2.631,Archimedes
+PDD051,432.71,2.577,Archimedes
+PDD051,452.71,2.648,Archimedes
+PDD051,472.71,2.598,Archimedes
+PDD051,492.71,2.639,Archimedes
+PDD051,512.71,2.658,Archimedes
+PDD051,532.71,2.636,Archimedes
+PDD051,552.71,2.521,Archimedes
+PDD051,572.71,2.663,Archimedes
+PDD051,592.71,2.650,Archimedes
+PDD051,612.71,2.644,Archimedes
+PDD051,632.71,2.643,Archimedes
+PDD052,5.60,1.976,Archimedes (wax-coated)
+PDD052,25.60,2.294,Archimedes (wax-coated)
+PDD052,45.60,2.199,Archimedes (wax-coated)
+PDD052,65.60,2.199,Archimedes (wax-coated)
+PDD052,85.60,2.351,Archimedes (wax-coated)
+PDD052,105.60,2.536,Archimedes
+PDD052,125.60,2.439,Archimedes
+PDD052,145.60,2.541,Archimedes
+PDD052,165.60,2.425,Archimedes
+PDD052,185.60,2.527,Archimedes
+PDD052,205.60,2.601,Archimedes
+PDD052,225.60,2.614,Archimedes
+PDD052,245.60,2.632,Archimedes
+PDD052,265.60,2.528,Archimedes
+PDD052,285.60,2.668,Archimedes
+PDD052,305.60,2.596,Archimedes
+PDD052,325.60,2.626,Archimedes
+PDD052,345.60,2.681,Archimedes
+PDD052,365.60,2.588,Archimedes
+PDD052,385.60,2.633,Archimedes
+PDD052,405.60,2.660,Archimedes
+PDD052,425.60,2.628,Archimedes
+PDD052,445.60,2.621,Archimedes
+PDD052,465.60,2.604,Archimedes
+PDD052,485.60,2.651,Archimedes
+PDD052,505.60,2.614,Archimedes
+PDD052,525.60,2.562,Archimedes
+PDD052,545.60,2.596,Archimedes
+PDD052,565.60,2.669,Archimedes
+PDD052,585.60,2.613,Archimedes
+PDD052,605.60,2.579,Archimedes
+PDD052,625.60,2.618,Archimedes
+PDD052,645.60,2.601,Archimedes
+PDD052,665.60,2.654,Archimedes
+PDD052,685.60,2.650,Archimedes
+PDD052,705.60,2.651,Archimedes
+PDD052,725.60,2.634,Archimedes
+PDD052,745.60,2.630,Archimedes
+PDD053,18.01,2.226,Archimedes (wax-coated)
+PDD053,38.01,2.249,Archimedes (wax-coated)
+PDD053,58.01,2.208,Archimedes (wax-coated)
+PDD053,78.01,2.199,Archimedes (wax-coated)
+PDD053,98.01,2.617,Archimedes
+PDD053,118.01,2.527,Archimedes
+PDD053,138.01,2.516,Archimedes
+PDD053,158.01,2.484,Archimedes
+PDD053,178.01,2.719,Archimedes
+PDD053,198.01,2.694,Archimedes
+PDD053,218.01,2.688,Archimedes
+PDD053,238.01,2.635,Archimedes
+PDD053,258.01,2.623,Archimedes
+PDD053,278.01,2.595,Archimedes
+PDD053,298.01,2.591,Archimedes
+PDD053,318.01,2.646,Archimedes
+PDD053,338.01,2.632,Archimedes
+PDD053,358.01,2.588,Archimedes
+PDD053,378.01,2.617,Archimedes
+PDD053,398.01,2.584,Archimedes
+PDD053,418.01,2.636,Archimedes
+PDD053,438.01,2.620,Archimedes
+PDD053,458.01,2.648,Archimedes
+PDD053,478.01,2.673,Archimedes
+PDD053,498.01,2.578,Archimedes
+PDD053,518.01,2.621,Archimedes
+PDD053,538.01,2.648,Archimedes
+PDD053,558.01,2.584,Archimedes
+PDD053,578.01,2.640,Archimedes
+PDD053,598.01,2.602,Archimedes
+PDD053,618.01,2.669,Archimedes
+PDD053,638.01,2.567,Archimedes
+PDD053,658.01,2.628,Archimedes
+PDD053,678.01,2.628,Archimedes
+PDD053,698.01,2.609,Archimedes
+PDD053,718.01,2.614,Archimedes
+PDD054,16.62,2.254,Archimedes (wax-coated)
+PDD054,36.62,2.322,Archimedes (wax-coated)
+PDD054,56.62,2.290,Archimedes (wax-coated)
+PDD054,76.62,2.250,Archimedes (wax-coated)
+PDD054,96.62,2.399,Archimedes (wax-coated)
+PDD054,116.62,2.523,Archimedes
+PDD054,136.62,2.585,Archimedes
+PDD054,156.62,2.539,Archimedes
+PDD054,176.62,2.509,Archimedes
+PDD054,196.62,2.525,Archimedes
+PDD054,216.62,2.539,Archimedes
+PDD054,236.62,2.681,Archimedes
+PDD054,256.62,2.597,Archimedes
+PDD054,276.62,2.585,Archimedes
+PDD054,296.62,2.605,Archimedes
+PDD054,316.62,2.582,Archimedes
+PDD054,336.62,2.556,Archimedes
+PDD054,356.62,2.625,Archimedes
+PDD054,376.62,2.590,Archimedes
+PDD054,396.62,2.646,Archimedes
+PDD054,416.62,2.623,Archimedes
+PDD054,436.62,2.639,Archimedes
+PDD054,456.62,2.562,Archimedes
+PDD054,476.62,2.658,Archimedes
+PDD054,496.62,2.607,Archimedes
+PDD054,516.62,2.654,Archimedes
+PDD054,536.62,2.521,Archimedes
+PDD054,556.62,2.664,Archimedes
+PDD054,576.62,2.585,Archimedes
+PDD054,596.62,2.606,Archimedes
+PDD054,616.62,2.563,Archimedes
+PDD054,636.62,2.567,Archimedes
+PDD054,656.62,2.564,Archimedes
+PDD054,676.62,2.538,Archimedes
+PDD054,696.62,2.653,Archimedes
+PDD054,716.62,2.715,Archimedes
+PDD054,736.62,2.669,Archimedes
+PDD054,756.62,2.711,Archimedes
+PDD054,776.62,2.666,Archimedes
+PDD054,796.62,2.583,Archimedes
+PDD054,816.62,2.559,Archimedes
+PDD055,9.49,2.317,Archimedes (wax-coated)
+PDD055,29.49,2.197,Archimedes (wax-coated)
+PDD055,49.49,2.215,Archimedes (wax-coated)
+PDD055,69.49,2.374,Archimedes (wax-coated)
+PDD055,89.49,2.468,Archimedes
+PDD055,109.49,2.467,Archimedes
+PDD055,129.49,2.592,Archimedes
+PDD055,149.49,2.516,Archimedes
+PDD055,169.49,2.720,Archimedes
+PDD055,189.49,2.737,Archimedes
+PDD055,209.49,2.686,Archimedes
+PDD055,229.49,2.683,Archimedes
+PDD055,249.49,2.757,Archimedes
+PDD055,269.49,2.670,Archimedes
+PDD055,289.49,2.746,Archimedes
+PDD055,309.49,2.696,Archimedes
+PDD055,329.49,2.644,Archimedes
+PDD055,349.49,2.660,Archimedes
+PDD055,369.49,2.691,Archimedes
+PDD055,389.49,2.534,Archimedes
+PDD055,409.49,2.626,Archimedes
+PDD055,429.49,2.607,Archimedes
+PDD055,449.49,2.632,Archimedes
+PDD055,469.49,2.577,Archimedes
+PDD055,489.49,2.573,Archimedes
+PDD055,509.49,2.609,Archimedes
+PDD055,529.49,2.642,Archimedes
+PDD055,549.49,2.647,Archimedes
+PDD055,569.49,2.597,Archimedes
+PDD055,589.49,2.630,Archimedes
+PDD055,609.49,2.550,Archimedes
+PDD056,9.11,2.263,Archimedes (wax-coated)
+PDD056,29.11,2.241,Archimedes (wax-coated)
+PDD056,49.11,2.381,Archimedes (wax-coated)
+PDD056,69.11,2.569,Archimedes
+PDD056,89.11,2.500,Archimedes
+PDD056,109.11,2.499,Archimedes
+PDD056,129.11,2.716,Archimedes
+PDD056,149.11,2.724,Archimedes
+PDD056,169.11,2.625,Archimedes
+PDD056,189.11,2.679,Archimedes
+PDD056,209.11,2.650,Archimedes
+PDD056,229.11,2.753,Archimedes
+PDD056,249.11,2.685,Archimedes
+PDD056,269.11,2.728,Archimedes
+PDD056,289.11,2.723,Archimedes
+PDD056,309.11,2.738,Archimedes
+PDD056,329.11,2.722,Archimedes
+PDD056,349.11,2.681,Archimedes
+PDD056,369.11,2.658,Archimedes
+PDD056,389.11,2.735,Archimedes
+PDD056,409.11,2.664,Archimedes
+PDD056,429.11,2.586,Archimedes
+PDD056,449.11,2.544,Archimedes
+PDD056,469.11,2.684,Archimedes
+PDD056,489.11,2.779,Archimedes
+PDD056,509.11,2.673,Archimedes
+PDD056,529.11,2.691,Archimedes
+PDD056,549.11,2.649,Archimedes
+PDD056,569.11,2.624,Archimedes
+PDD057,7.96,2.281,Archimedes (wax-coated)
+PDD057,27.96,2.197,Archimedes (wax-coated)
+PDD057,47.96,2.250,Archimedes (wax-coated)
+PDD057,67.96,2.413,Archimedes (wax-coated)
+PDD057,87.96,2.349,Archimedes (wax-coated)
+PDD057,107.96,2.503,Archimedes
+PDD057,127.96,2.517,Archimedes
+PDD057,147.96,2.689,Archimedes
+PDD057,167.96,2.730,Archimedes
+PDD057,187.96,2.703,Archimedes
+PDD057,207.96,2.750,Archimedes
+PDD057,227.96,2.675,Archimedes
+PDD057,247.96,2.532,Archimedes
+PDD057,267.96,2.585,Archimedes
+PDD057,287.96,2.679,Archimedes
+PDD057,307.96,2.712,Archimedes
+PDD057,327.96,2.721,Archimedes
+PDD057,347.96,2.699,Archimedes
+PDD057,367.96,2.713,Archimedes
+PDD057,387.96,2.684,Archimedes
+PDD057,407.96,2.758,Archimedes
+PDD057,427.96,2.647,Archimedes
+PDD057,447.96,2.713,Archimedes
+PDD057,467.96,2.689,Archimedes
+PDD057,487.96,2.659,Archimedes
+PDD057,507.96,2.639,Archimedes
+PDD057,527.96,2.723,Archimedes
+PDD057,547.96,2.649,Archimedes
+PDD057,567.96,2.595,Archimedes
+PDD057,587.96,2.628,Archimedes
+PDD057,607.96,2.676,Archimedes
+PDD057,627.96,2.608,Archimedes
+PDD057,647.96,2.628,Archimedes
+PDD057,667.96,2.600,Archimedes
+PDD057,687.96,2.667,Archimedes
+PDD057,707.96,2.611,Archimedes
+PDD057,727.96,2.636,Archimedes
+PDD058,9.15,1.972,Archimedes (wax-coated)
+PDD058,29.15,2.292,Archimedes (wax-coated)
+PDD058,49.15,2.296,Archimedes (wax-coated)
+PDD058,69.15,2.239,Archimedes (wax-coated)
+PDD058,89.15,2.474,Archimedes (wax-coated)
+PDD058,109.15,2.523,Archimedes
+PDD058,129.15,2.550,Archimedes
+PDD058,149.15,2.572,Archimedes
+PDD058,169.15,2.695,Archimedes
+PDD058,189.15,2.738,Archimedes
+PDD058,209.15,2.768,Archimedes
+PDD058,229.15,2.673,Archimedes
+PDD058,249.15,2.667,Archimedes
+PDD058,269.15,2.736,Archimedes
+PDD058,289.15,2.703,Archimedes
+PDD058,309.15,2.693,Archimedes
+PDD058,329.15,2.707,Archimedes
+PDD058,349.15,2.730,Archimedes
+PDD058,369.15,2.689,Archimedes
+PDD058,389.15,2.711,Archimedes
+PDD058,409.15,2.692,Archimedes
+PDD058,429.15,2.671,Archimedes
+PDD058,449.15,2.611,Archimedes
+PDD058,469.15,2.648,Archimedes
+PDD058,489.15,2.609,Archimedes
+PDD058,509.15,2.636,Archimedes
+PDD058,529.15,2.642,Archimedes
+PDD058,549.15,2.580,Archimedes
+PDD058,569.15,2.600,Archimedes
+PDD058,589.15,2.587,Archimedes
+PDD058,609.15,2.631,Archimedes
+PDD058,629.15,2.676,Archimedes
+PDD058,649.15,2.601,Archimedes
+PDD058,669.15,2.605,Archimedes
+PDD058,689.15,2.580,Archimedes
+PDD058,709.15,2.663,Archimedes
+PDD058,729.15,2.641,Archimedes
+PDD058,749.15,2.589,Archimedes
+PDD058,769.15,2.632,Archimedes
+PDD058,789.15,2.726,Archimedes
+PDD059,15.29,2.253,Archimedes (wax-coated)
+PDD059,35.29,2.247,Archimedes (wax-coated)
+PDD059,55.29,2.330,Archimedes (wax-coated)
+PDD059,75.29,2.396,Archimedes (wax-coated)
+PDD059,95.29,2.499,Archimedes
+PDD059,115.29,2.496,Archimedes
+PDD059,135.29,2.458,Archimedes
+PDD059,155.29,2.692,Archimedes
+PDD059,175.29,2.657,Archimedes
+PDD059,195.29,2.738,Archimedes
+PDD059,215.29,2.691,Archimedes
+PDD059,235.29,2.692,Archimedes
+PDD059,255.29,2.694,Archimedes
+PDD059,275.29,2.706,Archimedes
+PDD059,295.29,2.656,Archimedes
+PDD059,315.29,2.778,Archimedes
+PDD059,335.29,2.621,Archimedes
+PDD059,355.29,2.700,Archimedes
+PDD059,375.29,2.698,Archimedes
+PDD059,395.29,2.698,Archimedes
+PDD059,415.29,2.674,Archimedes
+PDD059,435.29,2.684,Archimedes
+PDD059,455.29,2.717,Archimedes
+PDD059,475.29,2.723,Archimedes
+PDD059,495.29,2.675,Archimedes
+PDD059,515.29,2.646,Archimedes
+PDD059,535.29,2.698,Archimedes
+PDD059,555.29,2.613,Archimedes
+PDD059,575.29,2.664,Archimedes
+PDD059,595.29,2.599,Archimedes
+PDD059,615.29,2.655,Archimedes
+PDD059,635.29,2.625,Archimedes
+PDD059,655.29,2.690,Archimedes
+PDD060,8.30,2.275,Archimedes (wax-coated)
+PDD060,28.30,2.245,Archimedes (wax-coated)
+PDD060,48.30,2.200,Archimedes (wax-coated)
+PDD060,68.30,2.248,Archimedes (wax-coated)
+PDD060,88.30,2.419,Archimedes (wax-coated)
+PDD060,108.30,2.439,Archimedes
+PDD060,128.30,2.489,Archimedes
+PDD060,148.30,2.521,Archimedes
+PDD060,168.30,2.517,Archimedes
+PDD060,188.30,2.732,Archimedes
+PDD060,208.30,2.746,Archimedes
+PDD060,228.30,2.724,Archimedes
+PDD060,248.30,2.680,Archimedes
+PDD060,268.30,2.667,Archimedes
+PDD060,288.30,2.690,Archimedes
+PDD060,308.30,2.578,Archimedes
+PDD060,328.30,2.606,Archimedes
+PDD060,348.30,2.626,Archimedes
+PDD060,368.30,2.610,Archimedes
+PDD060,388.30,2.647,Archimedes
+PDD060,408.30,2.630,Archimedes
+PDD060,428.30,2.598,Archimedes
+PDD060,448.30,2.635,Archimedes
+PDD060,468.30,2.617,Archimedes
+PDD060,488.30,2.629,Archimedes
+PDD060,508.30,2.646,Archimedes
+PDD060,528.30,2.644,Archimedes
+PDD060,548.30,2.599,Archimedes
+PDD060,568.30,2.606,Archimedes
+PDD060,588.30,2.572,Archimedes
+PDD060,608.30,2.555,Archimedes
+PDD060,628.30,2.628,Archimedes
+PDD060,648.30,2.656,Archimedes
+PDD060,668.30,2.624,Archimedes
+PDD060,688.30,2.630,Archimedes
+PDD060,708.30,2.659,Archimedes
+PDD060,728.30,2.591,Archimedes
+PDD061,18.22,2.236,Archimedes (wax-coated)
+PDD061,38.22,2.298,Archimedes (wax-coated)
+PDD061,58.22,2.248,Archimedes (wax-coated)
+PDD061,78.22,2.220,Archimedes (wax-coated)
+PDD061,98.22,2.395,Archimedes (wax-coated)
+PDD061,118.22,2.539,Archimedes
+PDD061,138.22,2.548,Archimedes
+PDD061,158.22,2.486,Archimedes
+PDD061,178.22,2.548,Archimedes
+PDD061,198.22,2.513,Archimedes
+PDD061,218.22,2.727,Archimedes
+PDD061,238.22,2.654,Archimedes
+PDD061,258.22,2.699,Archimedes
+PDD061,278.22,2.684,Archimedes
+PDD061,298.22,2.713,Archimedes
+PDD061,318.22,2.642,Archimedes
+PDD061,338.22,2.592,Archimedes
+PDD061,358.22,2.606,Archimedes
+PDD061,378.22,2.530,Archimedes
+PDD061,398.22,2.577,Archimedes
+PDD061,418.22,2.616,Archimedes
+PDD061,438.22,2.643,Archimedes
+PDD061,458.22,2.653,Archimedes
+PDD061,478.22,2.562,Archimedes
+PDD061,498.22,2.576,Archimedes
+PDD061,518.22,2.639,Archimedes
+PDD061,538.22,2.596,Archimedes
+PDD061,558.22,2.596,Archimedes
+PDD061,578.22,2.586,Archimedes
+PDD061,598.22,2.656,Archimedes
+PDD062,17.80,1.993,Archimedes (wax-coated)
+PDD062,37.80,2.262,Archimedes (wax-coated)
+PDD062,57.80,2.267,Archimedes (wax-coated)
+PDD062,77.80,2.223,Archimedes (wax-coated)
+PDD062,97.80,2.266,Archimedes (wax-coated)
+PDD062,117.80,2.438,Archimedes (wax-coated)
+PDD062,137.80,2.488,Archimedes
+PDD062,157.80,2.490,Archimedes
+PDD062,177.80,2.491,Archimedes
+PDD062,197.80,2.579,Archimedes
+PDD062,217.80,2.541,Archimedes
+PDD062,237.80,2.537,Archimedes
+PDD062,257.80,2.676,Archimedes
+PDD062,277.80,2.715,Archimedes
+PDD062,297.80,2.660,Archimedes
+PDD062,317.80,2.692,Archimedes
+PDD062,337.80,2.685,Archimedes
+PDD062,357.80,2.703,Archimedes
+PDD062,377.80,2.597,Archimedes
+PDD062,397.80,2.766,Archimedes
+PDD062,417.80,2.692,Archimedes
+PDD062,437.80,2.676,Archimedes
+PDD062,457.80,2.687,Archimedes
+PDD062,477.80,2.749,Archimedes
+PDD062,497.80,2.687,Archimedes
+PDD062,517.80,2.713,Archimedes
+PDD062,537.80,2.684,Archimedes
+PDD062,557.80,2.750,Archimedes
+PDD062,577.80,2.741,Archimedes
+PDD062,597.80,2.545,Archimedes
+PDD062,617.80,2.557,Archimedes
+PDD062,637.80,2.669,Archimedes
+PDD062,657.80,2.643,Archimedes
+PDD062,677.80,2.766,Archimedes
+PDD062,697.80,2.782,Archimedes
+PDD062,717.80,2.708,Archimedes
+PDD062,737.80,2.731,Archimedes
+PDD062,757.80,2.668,Archimedes
+PDD063,12.93,1.919,Archimedes (wax-coated)
+PDD063,32.93,2.286,Archimedes (wax-coated)
+PDD063,52.93,2.207,Archimedes (wax-coated)
+PDD063,72.93,2.231,Archimedes (wax-coated)
+PDD063,92.93,2.483,Archimedes (wax-coated)
+PDD063,112.93,2.505,Archimedes
+PDD063,132.93,2.495,Archimedes
+PDD063,152.93,2.502,Archimedes
+PDD063,172.93,2.565,Archimedes
+PDD063,192.93,2.553,Archimedes
+PDD063,212.93,2.575,Archimedes
+PDD063,232.93,2.539,Archimedes
+PDD063,252.93,2.701,Archimedes
+PDD063,272.93,2.698,Archimedes
+PDD063,292.93,2.716,Archimedes
+PDD063,312.93,2.724,Archimedes
+PDD063,332.93,2.700,Archimedes
+PDD063,352.93,2.603,Archimedes
+PDD063,372.93,2.602,Archimedes
+PDD063,392.93,2.577,Archimedes
+PDD063,412.93,2.702,Archimedes
+PDD063,432.93,2.618,Archimedes
+PDD063,452.93,2.562,Archimedes
+PDD063,472.93,2.568,Archimedes
+PDD063,492.93,2.605,Archimedes
+PDD063,512.93,2.687,Archimedes
+PDD063,532.93,2.594,Archimedes
+PDD063,552.93,2.655,Archimedes
+PDD063,572.93,2.611,Archimedes
+PDD063,592.93,2.616,Archimedes
+PDD063,612.93,2.585,Archimedes
+PDD063,632.93,2.572,Archimedes
+PDD063,652.93,2.649,Archimedes
+PDD063,672.93,2.622,Archimedes
+PDD063,692.93,2.622,Archimedes
+PDD063,712.93,2.623,Archimedes
+PDD063,732.93,2.654,Archimedes
+PDD064,13.45,2.212,Archimedes (wax-coated)
+PDD064,33.45,2.313,Archimedes (wax-coated)
+PDD064,53.45,2.296,Archimedes (wax-coated)
+PDD064,73.45,2.389,Archimedes (wax-coated)
+PDD064,93.45,2.542,Archimedes
+PDD064,113.45,2.570,Archimedes
+PDD064,133.45,2.477,Archimedes
+PDD064,153.45,2.686,Archimedes
+PDD064,173.45,2.714,Archimedes
+PDD064,193.45,2.706,Archimedes
+PDD064,213.45,2.746,Archimedes
+PDD064,233.45,2.729,Archimedes
+PDD064,253.45,2.685,Archimedes
+PDD064,273.45,2.654,Archimedes
+PDD064,293.45,2.614,Archimedes
+PDD064,313.45,2.606,Archimedes
+PDD064,333.45,2.566,Archimedes
+PDD064,353.45,2.583,Archimedes
+PDD064,373.45,2.596,Archimedes
+PDD064,393.45,2.734,Archimedes
+PDD064,413.45,2.647,Archimedes
+PDD064,433.45,2.589,Archimedes
+PDD064,453.45,2.641,Archimedes
+PDD064,473.45,2.666,Archimedes
+PDD064,493.45,2.689,Archimedes
+PDD064,513.45,2.597,Archimedes
+PDD064,533.45,2.592,Archimedes
+PDD064,553.45,2.614,Archimedes
+PDD064,573.45,2.647,Archimedes
+PDD064,593.45,2.651,Archimedes
+PDD064,613.45,2.646,Archimedes
+PDD065,9.40,1.930,Archimedes (wax-coated)
+PDD065,29.40,2.222,Archimedes (wax-coated)
+PDD065,49.40,2.218,Archimedes (wax-coated)
+PDD065,69.40,2.369,Archimedes (wax-coated)
+PDD065,89.40,2.521,Archimedes
+PDD065,109.40,2.545,Archimedes
+PDD065,129.40,2.758,Archimedes
+PDD065,149.40,2.682,Archimedes
+PDD065,169.40,2.718,Archimedes
+PDD065,189.40,2.652,Archimedes
+PDD065,209.40,2.715,Archimedes
+PDD065,229.40,2.790,Archimedes
+PDD065,249.40,2.644,Archimedes
+PDD065,269.40,2.741,Archimedes
+PDD065,289.40,2.677,Archimedes
+PDD065,309.40,2.660,Archimedes
+PDD065,329.40,2.664,Archimedes
+PDD065,349.40,2.740,Archimedes
+PDD065,369.40,2.771,Archimedes
+PDD065,389.40,2.688,Archimedes
+PDD065,409.40,2.594,Archimedes
+PDD065,429.40,2.600,Archimedes
+PDD066,14.94,2.264,Archimedes (wax-coated)
+PDD066,34.94,2.255,Archimedes (wax-coated)
+PDD066,54.94,2.248,Archimedes (wax-coated)
+PDD066,74.94,2.402,Archimedes (wax-coated)
+PDD066,94.94,2.556,Archimedes
+PDD066,114.94,2.513,Archimedes
+PDD066,134.94,2.680,Archimedes
+PDD066,154.94,2.545,Archimedes
+PDD066,174.94,2.575,Archimedes
+PDD066,194.94,2.696,Archimedes
+PDD066,214.94,2.746,Archimedes
+PDD066,234.94,2.710,Archimedes
+PDD066,254.94,2.683,Archimedes
+PDD066,274.94,2.663,Archimedes
+PDD066,294.94,2.673,Archimedes
+PDD066,314.94,2.753,Archimedes
+PDD066,334.94,2.650,Archimedes
+PDD066,354.94,2.623,Archimedes
+PDD066,374.94,2.700,Archimedes
+PDD066,394.94,2.719,Archimedes
+PDD066,414.94,2.679,Archimedes
+PDD066,434.94,2.699,Archimedes
+PDD066,454.94,2.639,Archimedes
+PDD066,474.94,2.669,Archimedes
+PDD066,494.94,2.751,Archimedes
+PDD066,514.94,2.735,Archimedes
+PDD066,534.94,2.676,Archimedes
+PDD066,554.94,2.525,Archimedes
+PDD066,574.94,2.622,Archimedes
+PDD066,594.94,2.623,Archimedes
+PDD066,614.94,2.688,Archimedes
+PDD066,634.94,2.596,Archimedes
+PDD066,654.94,2.609,Archimedes
+PDD066,674.94,2.579,Archimedes
+PDD066,694.94,2.605,Archimedes
+PDD066,714.94,2.633,Archimedes
+PDD066,734.94,2.645,Archimedes
+PDD067,10.28,1.980,Archimedes (wax-coated)
+PDD067,30.28,2.215,Archimedes (wax-coated)
+PDD067,50.28,2.334,Archimedes (wax-coated)
+PDD067,70.28,2.258,Archimedes (wax-coated)
+PDD067,90.28,2.368,Archimedes (wax-coated)
+PDD067,110.28,2.454,Archimedes
+PDD067,130.28,2.601,Archimedes
+PDD067,150.28,2.685,Archimedes
+PDD067,170.28,2.687,Archimedes
+PDD067,190.28,2.723,Archimedes
+PDD067,210.28,2.687,Archimedes
+PDD067,230.28,2.645,Archimedes
+PDD067,250.28,2.650,Archimedes
+PDD067,270.28,2.729,Archimedes
+PDD067,290.28,2.676,Archimedes
+PDD067,310.28,2.684,Archimedes
+PDD067,330.28,2.687,Archimedes
+PDD067,350.28,2.692,Archimedes
+PDD067,370.28,2.664,Archimedes
+PDD067,390.28,2.757,Archimedes
+PDD067,410.28,2.658,Archimedes
+PDD067,430.28,2.731,Archimedes
+PDD067,450.28,2.687,Archimedes
+PDD067,470.28,2.670,Archimedes
+PDD067,490.28,2.756,Archimedes
+PDD067,510.28,2.759,Archimedes
+PDD067,530.28,2.708,Archimedes
+PDD067,550.28,2.651,Archimedes
+PDD067,570.28,2.778,Archimedes
+PDD068,16.33,1.987,Archimedes (wax-coated)
+PDD068,36.33,2.303,Archimedes (wax-coated)
+PDD068,56.33,2.243,Archimedes (wax-coated)
+PDD068,76.33,2.366,Archimedes (wax-coated)
+PDD068,96.33,2.304,Archimedes (wax-coated)
+PDD068,116.33,2.542,Archimedes
+PDD068,136.33,2.544,Archimedes
+PDD068,156.33,2.567,Archimedes
+PDD068,176.33,2.580,Archimedes
+PDD068,196.33,2.681,Archimedes
+PDD068,216.33,2.683,Archimedes
+PDD068,236.33,2.717,Archimedes
+PDD068,256.33,2.665,Archimedes
+PDD068,276.33,2.722,Archimedes
+PDD068,296.33,2.669,Archimedes
+PDD068,316.33,2.649,Archimedes
+PDD068,336.33,2.689,Archimedes
+PDD068,356.33,2.709,Archimedes
+PDD068,376.33,2.738,Archimedes
+PDD068,396.33,2.678,Archimedes
+PDD068,416.33,2.709,Archimedes
+PDD068,436.33,2.711,Archimedes
+PDD068,456.33,2.682,Archimedes
+PDD068,476.33,2.696,Archimedes
+PDD068,496.33,2.690,Archimedes
+PDD068,516.33,2.647,Archimedes
+PDD068,536.33,2.728,Archimedes
+PDD068,556.33,2.690,Archimedes
+PDD068,576.33,2.748,Archimedes
+PDD068,596.33,2.691,Archimedes
+PDD068,616.33,2.746,Archimedes
+PDD068,636.33,2.677,Archimedes
+PDD068,656.33,2.670,Archimedes
+PDD068,676.33,2.710,Archimedes
+PDD068,696.33,2.691,Archimedes
+PDD068,716.33,2.666,Archimedes
+PDD069,18.77,2.274,Archimedes (wax-coated)
+PDD069,38.77,2.221,Archimedes (wax-coated)
+PDD069,58.77,2.212,Archimedes (wax-coated)
+PDD069,78.77,2.381,Archimedes (wax-coated)
+PDD069,98.77,2.379,Archimedes (wax-coated)
+PDD069,118.77,2.532,Archimedes
+PDD069,138.77,2.508,Archimedes
+PDD069,158.77,2.490,Archimedes
+PDD069,178.77,2.487,Archimedes
+PDD069,198.77,2.776,Archimedes
+PDD069,218.77,2.773,Archimedes
+PDD069,238.77,2.693,Archimedes
+PDD069,258.77,2.688,Archimedes
+PDD069,278.77,2.699,Archimedes
+PDD069,298.77,2.748,Archimedes
+PDD069,318.77,2.699,Archimedes
+PDD069,338.77,2.711,Archimedes
+PDD069,358.77,2.677,Archimedes
+PDD069,378.77,2.707,Archimedes
+PDD069,398.77,2.708,Archimedes
+PDD069,418.77,2.665,Archimedes
+PDD069,438.77,2.660,Archimedes
+PDD069,458.77,2.680,Archimedes
+PDD069,478.77,2.734,Archimedes
+PDD069,498.77,2.751,Archimedes
+PDD069,518.77,2.767,Archimedes
+PDD069,538.77,2.655,Archimedes
+PDD069,558.77,2.717,Archimedes
+PDD069,578.77,2.629,Archimedes
+PDD069,598.77,2.690,Archimedes
+PDD069,618.77,2.678,Archimedes
+PDD069,638.77,2.708,Archimedes
+PDD070,9.29,1.902,Archimedes (wax-coated)
+PDD070,29.29,2.288,Archimedes (wax-coated)
+PDD070,49.29,2.199,Archimedes (wax-coated)
+PDD070,69.29,2.234,Archimedes (wax-coated)
+PDD070,89.29,2.385,Archimedes (wax-coated)
+PDD070,109.29,2.486,Archimedes
+PDD070,129.29,2.554,Archimedes
+PDD070,149.29,2.546,Archimedes
+PDD070,169.29,2.547,Archimedes
+PDD070,189.29,2.705,Archimedes
+PDD070,209.29,2.626,Archimedes
+PDD070,229.29,2.649,Archimedes
+PDD070,249.29,2.700,Archimedes
+PDD070,269.29,2.634,Archimedes
+PDD070,289.29,2.712,Archimedes
+PDD070,309.29,2.664,Archimedes
+PDD070,329.29,2.732,Archimedes
+PDD070,349.29,2.700,Archimedes
+PDD070,369.29,2.725,Archimedes
+PDD070,389.29,2.743,Archimedes
+PDD070,409.29,2.694,Archimedes
+PDD070,429.29,2.658,Archimedes
+PDD070,449.29,2.688,Archimedes
+PDD070,469.29,2.739,Archimedes
+PDD070,489.29,2.699,Archimedes
+PDD070,509.29,2.687,Archimedes
+PDD070,529.29,2.680,Archimedes
+PDD071,17.98,2.221,Archimedes (wax-coated)
+PDD071,37.98,2.275,Archimedes (wax-coated)
+PDD071,57.98,2.235,Archimedes (wax-coated)
+PDD071,77.98,2.292,Archimedes (wax-coated)
+PDD071,97.98,2.411,Archimedes (wax-coated)
+PDD071,117.98,2.518,Archimedes
+PDD071,137.98,2.457,Archimedes
+PDD071,157.98,2.530,Archimedes
+PDD071,177.98,2.599,Archimedes
+PDD071,197.98,2.635,Archimedes
+PDD071,217.98,2.661,Archimedes
+PDD071,237.98,2.720,Archimedes
+PDD071,257.98,2.730,Archimedes
+PDD071,277.98,2.677,Archimedes
+PDD071,297.98,2.761,Archimedes
+PDD071,317.98,2.671,Archimedes
+PDD071,337.98,2.667,Archimedes
+PDD071,357.98,2.714,Archimedes
+PDD071,377.98,2.706,Archimedes
+PDD071,397.98,2.719,Archimedes
+PDD071,417.98,2.673,Archimedes
+PDD071,437.98,2.650,Archimedes
+PDD071,457.98,2.659,Archimedes
+PDD071,477.98,2.741,Archimedes
+PDD071,497.98,2.688,Archimedes
+PDD071,517.98,2.729,Archimedes
+PDD071,537.98,2.715,Archimedes
+PDD071,557.98,2.670,Archimedes
+PDD071,577.98,2.783,Archimedes
+PDD071,597.98,2.738,Archimedes
+PDD071,617.98,2.739,Archimedes
+PDD071,637.98,2.630,Archimedes
+PDD072,17.26,2.230,Archimedes (wax-coated)
+PDD072,37.26,2.256,Archimedes (wax-coated)
+PDD072,57.26,2.420,Archimedes (wax-coated)
+PDD072,77.26,2.380,Archimedes (wax-coated)
+PDD072,97.26,2.502,Archimedes
+PDD072,117.26,2.532,Archimedes
+PDD072,137.26,2.582,Archimedes
+PDD072,157.26,2.535,Archimedes
+PDD072,177.26,2.751,Archimedes
+PDD072,197.26,2.684,Archimedes
+PDD072,217.26,2.739,Archimedes
+PDD072,237.26,2.648,Archimedes
+PDD072,257.26,2.652,Archimedes
+PDD072,277.26,2.750,Archimedes
+PDD072,297.26,2.708,Archimedes
+PDD072,317.26,2.793,Archimedes
+PDD072,337.26,2.664,Archimedes
+PDD072,357.26,2.657,Archimedes
+PDD072,377.26,2.669,Archimedes
+PDD072,397.26,2.667,Archimedes
+PDD072,417.26,2.698,Archimedes
+PDD072,437.26,2.788,Archimedes
+PDD072,457.26,2.691,Archimedes
+PDD072,477.26,2.684,Archimedes
+PDD072,497.26,2.679,Archimedes
+PDD072,517.26,2.704,Archimedes
+PDD072,537.26,2.691,Archimedes
+PDD072,557.26,2.680,Archimedes
+PDD072,577.26,2.636,Archimedes
+PDD072,597.26,2.659,Archimedes
+PDD072,617.26,2.685,Archimedes
+PDD072,637.26,2.718,Archimedes
+PDD072,657.26,2.772,Archimedes
+PDD072,677.26,2.667,Archimedes
+PDD072,697.26,2.737,Archimedes
+PDD072,717.26,2.719,Archimedes
+PDD072,737.26,2.662,Archimedes
+PDD072,757.26,2.670,Archimedes
+PDD073,10.17,1.918,Archimedes (wax-coated)
+PDD073,30.17,2.293,Archimedes (wax-coated)
+PDD073,50.17,2.503,Archimedes
+PDD073,70.17,2.507,Archimedes
+PDD073,90.17,2.723,Archimedes
+PDD073,110.17,2.697,Archimedes
+PDD073,130.17,2.702,Archimedes
+PDD073,150.17,2.703,Archimedes
+PDD073,170.17,2.767,Archimedes
+PDD073,190.17,2.683,Archimedes
+PDD073,210.17,2.711,Archimedes
+PDD073,230.17,2.715,Archimedes
+PDD073,250.17,2.706,Archimedes
+PDD073,270.17,2.671,Archimedes
+PDD073,290.17,2.664,Archimedes
+PDD073,310.17,2.584,Archimedes
+PDD073,330.17,2.732,Archimedes
+PDD073,350.17,2.752,Archimedes
+PDD073,370.17,2.696,Archimedes
+PDD073,390.17,2.670,Archimedes
+PDD073,410.17,2.678,Archimedes
+PDD073,430.17,2.695,Archimedes
+PDD073,450.17,2.633,Archimedes
+PDD074,5.51,2.288,Archimedes (wax-coated)
+PDD074,25.51,2.270,Archimedes (wax-coated)
+PDD074,45.51,2.366,Archimedes (wax-coated)
+PDD074,65.51,2.396,Archimedes (wax-coated)
+PDD074,85.51,2.530,Archimedes
+PDD074,105.51,2.710,Archimedes
+PDD074,125.51,2.695,Archimedes
+PDD074,145.51,2.656,Archimedes
+PDD074,165.51,2.625,Archimedes
+PDD074,185.51,2.662,Archimedes
+PDD074,205.51,2.701,Archimedes
+PDD074,225.51,2.686,Archimedes
+PDD074,245.51,2.710,Archimedes
+PDD074,265.51,2.708,Archimedes
+PDD074,285.51,2.642,Archimedes
+PDD074,305.51,2.677,Archimedes
+PDD074,325.51,2.682,Archimedes
+PDD074,345.51,2.731,Archimedes
+PDD074,365.51,2.625,Archimedes
+PDD074,385.51,2.644,Archimedes
+PDD074,405.51,2.700,Archimedes
+PDD074,425.51,2.686,Archimedes
+PDD074,445.51,2.661,Archimedes
+PDD075,19.65,1.984,Archimedes (wax-coated)
+PDD075,39.65,2.241,Archimedes (wax-coated)
+PDD075,59.65,2.626,Archimedes
+PDD075,79.65,2.520,Archimedes
+PDD075,99.65,2.699,Archimedes
+PDD075,119.65,2.603,Archimedes
+PDD075,139.65,2.698,Archimedes
+PDD075,159.65,2.768,Archimedes
+PDD075,179.65,2.616,Archimedes
+PDD075,199.65,2.706,Archimedes
+PDD075,219.65,2.707,Archimedes
+PDD075,239.65,2.684,Archimedes
+PDD075,259.65,2.765,Archimedes
+PDD075,279.65,2.717,Archimedes
+PDD075,299.65,2.754,Archimedes
+PDD075,319.65,2.747,Archimedes
+PDD075,339.65,2.675,Archimedes
+PDD075,359.65,2.630,Archimedes
+PDD075,379.65,2.696,Archimedes
+PDD075,399.65,2.677,Archimedes
+PDD075,419.65,2.706,Archimedes
+PDD075,439.65,2.552,Archimedes
+PDD075,459.65,2.630,Archimedes
+PDD075,479.65,2.663,Archimedes
+PDD075,499.65,2.686,Archimedes
+PDD076,9.73,2.013,Archimedes (wax-coated)
+PDD076,29.73,2.221,Archimedes (wax-coated)
+PDD076,49.73,2.381,Archimedes (wax-coated)
+PDD076,69.73,2.504,Archimedes
+PDD076,89.73,2.522,Archimedes
+PDD076,109.73,2.576,Archimedes
+PDD076,129.73,2.564,Archimedes
+PDD076,149.73,2.727,Archimedes
+PDD076,169.73,2.747,Archimedes
+PDD076,189.73,2.706,Archimedes
+PDD076,209.73,2.709,Archimedes
+PDD076,229.73,2.748,Archimedes
+PDD076,249.73,2.759,Archimedes
+PDD076,269.73,2.652,Archimedes
+PDD076,289.73,2.682,Archimedes
+PDD076,309.73,2.672,Archimedes
+PDD076,329.73,2.739,Archimedes
+PDD076,349.73,2.639,Archimedes
+PDD076,369.73,2.674,Archimedes
+PDD076,389.73,2.667,Archimedes
+PDD076,409.73,2.592,Archimedes
+PDD076,429.73,2.668,Archimedes
+PDD076,449.73,2.701,Archimedes
+PDD076,469.73,2.661,Archimedes
+PDD076,489.73,2.730,Archimedes
+PDD076,509.73,2.633,Archimedes
+PDD077,13.77,1.881,Archimedes (wax-coated)
+PDD077,33.77,2.215,Archimedes (wax-coated)
+PDD077,53.77,2.383,Archimedes (wax-coated)
+PDD077,73.77,2.529,Archimedes
+PDD077,93.77,2.594,Archimedes
+PDD077,113.77,2.736,Archimedes
+PDD077,133.77,2.722,Archimedes
+PDD077,153.77,2.668,Archimedes
+PDD077,173.77,2.639,Archimedes
+PDD077,193.77,2.640,Archimedes
+PDD077,213.77,2.662,Archimedes
+PDD077,233.77,2.744,Archimedes
+PDD077,253.77,2.725,Archimedes
+PDD077,273.77,2.670,Archimedes
+PDD077,293.77,2.713,Archimedes
+PDD077,313.77,2.699,Archimedes
+PDD077,333.77,2.750,Archimedes
+PDD077,353.77,2.730,Archimedes
+PDD077,373.77,2.722,Archimedes
+PDD077,393.77,2.697,Archimedes
+PDD077,413.77,2.691,Archimedes
+PDD077,433.77,2.797,Archimedes
+PDD077,453.77,2.722,Archimedes
+PDD077,473.77,2.708,Archimedes
+PDD077,493.77,2.745,Archimedes
+PDD077,513.77,2.722,Archimedes
+PDD077,533.77,2.673,Archimedes
+PDD077,553.77,2.644,Archimedes
+PDD077,573.77,2.671,Archimedes
+PDD077,593.77,2.725,Archimedes
+PDD077,613.77,2.665,Archimedes
+PDD077,633.77,2.670,Archimedes
+PDD077,653.77,2.630,Archimedes
+PDD077,673.77,2.724,Archimedes
+PDD077,693.77,2.708,Archimedes
+PDD077,713.77,2.657,Archimedes
+PDD077,733.77,2.702,Archimedes
+PDD078,8.28,1.984,Archimedes (wax-coated)
+PDD078,28.28,2.330,Archimedes (wax-coated)
+PDD078,48.28,2.332,Archimedes (wax-coated)
+PDD078,68.28,2.425,Archimedes (wax-coated)
+PDD078,88.28,2.390,Archimedes (wax-coated)
+PDD078,108.28,2.489,Archimedes
+PDD078,128.28,2.501,Archimedes
+PDD078,148.28,2.511,Archimedes
+PDD078,168.28,2.721,Archimedes
+PDD078,188.28,2.659,Archimedes
+PDD078,208.28,2.728,Archimedes
+PDD078,228.28,2.709,Archimedes
+PDD078,248.28,2.652,Archimedes
+PDD078,268.28,2.719,Archimedes
+PDD078,288.28,2.754,Archimedes
+PDD078,308.28,2.635,Archimedes
+PDD078,328.28,2.680,Archimedes
+PDD078,348.28,2.655,Archimedes
+PDD078,368.28,2.753,Archimedes
+PDD078,388.28,2.724,Archimedes
+PDD078,408.28,2.776,Archimedes
+PDD078,428.28,2.723,Archimedes
+PDD078,448.28,2.712,Archimedes
+PDD078,468.28,2.741,Archimedes
+PDD078,488.28,2.686,Archimedes
+PDD078,508.28,2.694,Archimedes
+PDD078,528.28,2.752,Archimedes
+PDD078,548.28,2.706,Archimedes
+PDD078,568.28,2.631,Archimedes
+PDD078,588.28,2.712,Archimedes
+PDD078,608.28,2.749,Archimedes
+PDD079,16.96,2.261,Archimedes (wax-coated)
+PDD079,36.96,2.225,Archimedes (wax-coated)
+PDD079,56.96,2.143,Archimedes (wax-coated)
+PDD079,76.96,2.405,Archimedes (wax-coated)
+PDD079,96.96,2.562,Archimedes
+PDD079,116.96,2.526,Archimedes
+PDD079,136.96,2.692,Archimedes
+PDD079,156.96,2.707,Archimedes
+PDD079,176.96,2.741,Archimedes
+PDD079,196.96,2.724,Archimedes
+PDD079,216.96,2.714,Archimedes
+PDD079,236.96,2.734,Archimedes
+PDD079,256.96,2.718,Archimedes
+PDD079,276.96,2.707,Archimedes
+PDD079,296.96,2.711,Archimedes
+PDD079,316.96,2.700,Archimedes
+PDD079,336.96,2.726,Archimedes
+PDD079,356.96,2.642,Archimedes
+PDD079,376.96,2.708,Archimedes
+PDD079,396.96,2.720,Archimedes
+PDD079,416.96,2.721,Archimedes
+PDD079,436.96,2.730,Archimedes
+PDD079,456.96,2.791,Archimedes
+PDD079,476.96,2.720,Archimedes
+PDD079,496.96,2.751,Archimedes
+PDD079,516.96,2.731,Archimedes
+PDD079,536.96,2.724,Archimedes
+PDD079,556.96,2.734,Archimedes
+PDD080,9.13,2.257,Archimedes (wax-coated)
+PDD080,29.13,2.249,Archimedes (wax-coated)
+PDD080,49.13,2.219,Archimedes (wax-coated)
+PDD080,69.13,2.405,Archimedes (wax-coated)
+PDD080,89.13,2.494,Archimedes
+PDD080,109.13,2.478,Archimedes
+PDD080,129.13,2.533,Archimedes
+PDD080,149.13,2.534,Archimedes
+PDD080,169.13,2.690,Archimedes
+PDD080,189.13,2.647,Archimedes
+PDD080,209.13,2.718,Archimedes
+PDD080,229.13,2.740,Archimedes
+PDD080,249.13,2.655,Archimedes
+PDD080,269.13,2.717,Archimedes
+PDD080,289.13,2.643,Archimedes
+PDD080,309.13,2.665,Archimedes
+PDD080,329.13,2.655,Archimedes
+PDD080,349.13,2.705,Archimedes
+PDD080,369.13,2.667,Archimedes
+PDD080,389.13,2.712,Archimedes
+PDD080,409.13,2.756,Archimedes
+PDD080,429.13,2.710,Archimedes
+PDD080,449.13,2.729,Archimedes
+PDD080,469.13,2.670,Archimedes
+PDD080,489.13,2.748,Archimedes
+PDD080,509.13,2.682,Archimedes
+PDD080,529.13,2.658,Archimedes
+PDD080,549.13,2.714,Archimedes
+PDD080,569.13,2.686,Archimedes
+PDD080,589.13,2.680,Archimedes
+PDD080,609.13,2.716,Archimedes
+PDD080,629.13,2.670,Archimedes
+PDD080,649.13,2.622,Archimedes
+PDD080,669.13,2.704,Archimedes
+PDD080,689.13,2.689,Archimedes
+PDD080,709.13,2.733,Archimedes
+PDD080,729.13,2.699,Archimedes
+PDD081,15.84,2.285,Archimedes (wax-coated)
+PDD081,35.84,2.279,Archimedes (wax-coated)
+PDD081,55.84,2.289,Archimedes (wax-coated)
+PDD081,75.84,2.512,Archimedes
+PDD081,95.84,2.578,Archimedes
+PDD081,115.84,2.687,Archimedes
+PDD081,135.84,2.737,Archimedes
+PDD081,155.84,2.709,Archimedes
+PDD081,175.84,2.707,Archimedes
+PDD081,195.84,2.710,Archimedes
+PDD081,215.84,2.656,Archimedes
+PDD081,235.84,2.755,Archimedes
+PDD081,255.84,2.727,Archimedes
+PDD081,275.84,2.714,Archimedes
+PDD081,295.84,2.706,Archimedes
+PDD081,315.84,2.699,Archimedes
+PDD081,335.84,2.623,Archimedes
+PDD081,355.84,2.742,Archimedes
+PDD081,375.84,2.640,Archimedes
+PDD081,395.84,2.669,Archimedes
+PDD081,415.84,2.665,Archimedes
+PDD081,435.84,2.709,Archimedes
+PDD081,455.84,2.778,Archimedes
+PDD081,475.84,2.697,Archimedes
+PDD081,495.84,2.741,Archimedes
+PDD081,515.84,2.663,Archimedes
+PDD081,535.84,2.669,Archimedes
+PDD081,555.84,2.766,Archimedes
+PDD081,575.84,2.723,Archimedes
+PDD081,595.84,2.724,Archimedes
+PDD081,615.84,2.698,Archimedes
+PDD081,635.84,2.701,Archimedes
+PDD081,655.84,2.677,Archimedes
+PDD081,675.84,2.714,Archimedes
+PDD081,695.84,2.709,Archimedes
+PDD082,13.86,2.245,Archimedes (wax-coated)
+PDD082,33.86,2.309,Archimedes (wax-coated)
+PDD082,53.86,2.419,Archimedes (wax-coated)
+PDD082,73.86,2.364,Archimedes (wax-coated)
+PDD082,93.86,2.489,Archimedes
+PDD082,113.86,2.678,Archimedes
+PDD082,133.86,2.737,Archimedes
+PDD082,153.86,2.791,Archimedes
+PDD082,173.86,2.715,Archimedes
+PDD082,193.86,2.724,Archimedes
+PDD082,213.86,2.706,Archimedes
+PDD082,233.86,2.712,Archimedes
+PDD082,253.86,2.681,Archimedes
+PDD082,273.86,2.680,Archimedes
+PDD082,293.86,2.712,Archimedes
+PDD082,313.86,2.676,Archimedes
+PDD082,333.86,2.747,Archimedes
+PDD082,353.86,2.737,Archimedes
+PDD082,373.86,2.699,Archimedes
+PDD082,393.86,2.725,Archimedes
+PDD082,413.86,2.691,Archimedes
+PDD082,433.86,2.683,Archimedes
+PDD082,453.86,2.750,Archimedes
+PDD082,473.86,2.693,Archimedes
+PDD082,493.86,2.673,Archimedes
+PDD082,513.86,2.737,Archimedes
+PDD083,10.63,1.919,Archimedes (wax-coated)
+PDD083,30.63,2.275,Archimedes (wax-coated)
+PDD083,50.63,2.373,Archimedes (wax-coated)
+PDD083,70.63,2.376,Archimedes (wax-coated)
+PDD083,90.63,2.471,Archimedes
+PDD083,110.63,2.676,Archimedes
+PDD083,130.63,2.717,Archimedes
+PDD083,150.63,2.719,Archimedes
+PDD083,170.63,2.691,Archimedes
+PDD083,190.63,2.702,Archimedes
+PDD083,210.63,2.740,Archimedes
+PDD083,230.63,2.750,Archimedes
+PDD083,250.63,2.709,Archimedes
+PDD083,270.63,2.667,Archimedes
+PDD083,290.63,2.680,Archimedes
+PDD083,310.63,2.761,Archimedes
+PDD083,330.63,2.707,Archimedes
+PDD083,350.63,2.701,Archimedes
+PDD083,370.63,2.672,Archimedes
+PDD083,390.63,2.691,Archimedes
+PDD083,410.63,2.659,Archimedes
+PDD083,430.63,2.734,Archimedes
+PDD083,450.63,2.650,Archimedes
+PDD083,470.63,2.726,Archimedes
+PDD083,490.63,2.664,Archimedes
+PDD083,510.63,2.691,Archimedes
+PDD083,530.63,2.707,Archimedes
+PDD084,10.23,1.986,Archimedes (wax-coated)
+PDD084,30.23,2.235,Archimedes (wax-coated)
+PDD084,50.23,2.387,Archimedes (wax-coated)
+PDD084,70.23,2.490,Archimedes
+PDD084,90.23,2.718,Archimedes
+PDD084,110.23,2.612,Archimedes
+PDD084,130.23,2.712,Archimedes
+PDD084,150.23,2.688,Archimedes
+PDD084,170.23,2.678,Archimedes
+PDD084,190.23,2.638,Archimedes
+PDD084,210.23,2.673,Archimedes
+PDD084,230.23,2.721,Archimedes
+PDD084,250.23,2.691,Archimedes
+PDD084,270.23,2.712,Archimedes
+PDD084,290.23,2.751,Archimedes
+PDD084,310.23,2.702,Archimedes
+PDD084,330.23,2.712,Archimedes
+PDD084,350.23,2.693,Archimedes
+PDD084,370.23,2.686,Archimedes
+PDD084,390.23,2.716,Archimedes
+PDD085,6.07,1.972,Archimedes (wax-coated)
+PDD085,26.07,2.349,Archimedes (wax-coated)
+PDD085,46.07,2.458,Archimedes
+PDD085,66.07,2.500,Archimedes
+PDD085,86.07,2.718,Archimedes
+PDD085,106.07,2.744,Archimedes
+PDD085,126.07,2.703,Archimedes
+PDD085,146.07,2.648,Archimedes
+PDD085,166.07,2.698,Archimedes
+PDD085,186.07,2.717,Archimedes
+PDD085,206.07,2.692,Archimedes
+PDD085,226.07,2.733,Archimedes
+PDD085,246.07,2.692,Archimedes
+PDD085,266.07,2.627,Archimedes
+PDD085,286.07,2.735,Archimedes
+PDD085,306.07,2.653,Archimedes
+PDD085,326.07,2.656,Archimedes
+PDD085,346.07,2.681,Archimedes
+PDD085,366.07,2.703,Archimedes
+PDD085,386.07,2.749,Archimedes
+PDD085,406.07,2.699,Archimedes
+PDD085,426.07,2.692,Archimedes
+PDD085,446.07,2.663,Archimedes
+PDD085,466.07,2.679,Archimedes
+PDD086,9.37,1.974,Archimedes (wax-coated)
+PDD086,29.37,2.258,Archimedes (wax-coated)
+PDD086,49.37,2.371,Archimedes (wax-coated)
+PDD086,69.37,2.528,Archimedes
+PDD086,89.37,2.509,Archimedes
+PDD086,109.37,2.702,Archimedes
+PDD086,129.37,2.695,Archimedes
+PDD086,149.37,2.741,Archimedes
+PDD086,169.37,2.775,Archimedes
+PDD086,189.37,2.726,Archimedes
+PDD086,209.37,2.660,Archimedes
+PDD086,229.37,2.698,Archimedes
+PDD086,249.37,2.723,Archimedes
+PDD086,269.37,2.667,Archimedes
+PDD086,289.37,2.693,Archimedes
+PDD086,309.37,2.677,Archimedes
+PDD086,329.37,2.694,Archimedes
+PDD086,349.37,2.718,Archimedes
+PDD086,369.37,2.748,Archimedes
+PDD086,389.37,2.730,Archimedes
+PDD086,409.37,2.663,Archimedes
+PDD086,429.37,2.696,Archimedes
+PDD086,449.37,2.748,Archimedes
+PDD086,469.37,2.716,Archimedes
+PDD086,489.37,2.688,Archimedes
+PDD086,509.37,2.652,Archimedes
+PDD086,529.37,2.685,Archimedes
+PDD086,549.37,2.675,Archimedes

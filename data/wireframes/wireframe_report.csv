@@ -1,0 +1,19 @@
+NAME,TYPE,TRIANGLES,AREA_M2,VOLUME_M3,CLOSED,TRUE_TONNES_Mt,TRUE_CuT%/Au_gpt/Mo_ppm
+topography,surface,12800,4036351,,,,
+base_of_cover_BOC,surface,12800,4050470,,,,
+base_of_leached_cap_BOLC,surface,12800,4084426,,,,
+base_of_oxide_BOX,surface,12800,4161510,,,,
+top_of_hypogene_TOH,surface,12800,4244675,,,,
+litho_QMP_stock,solid,21080,2144164,197684122,yes,,
+alt_POT_potassic,solid,35318,3634185,416347759,yes,,
+alt_PHY_phyllic,solid,48648,4316892,232487153,yes,,
+alt_ARG_argillic,solid,7702,695411,19287653,yes,,
+alt_PRO_propylitic_outer,solid,29978,14941837,3120842153,yes,,
+gradeshell_CuT_0.2pct,solid,45514,4029341,217763781,yes,564.5,0.531 / 0.213 / 138
+gradeshell_CuT_0.4pct,solid,35312,3060298,115377419,yes,302.2,0.747 / 0.294 / 129
+gradeshell_CuT_0.8pct,solid,20870,1862932,37109215,yes,101.6,1.108 / 0.408 / 107
+gradeshell_Au_0.3gpt,solid,23060,2048248,46937589,yes,125.9,0.944 / 0.412 / 93
+gradeshell_Mo_100ppm,solid,17666,6302790,318239527,yes,834.2,0.232 / 0.087 / 190
+litho_BXH_breccia_pipe,solid,10056,147098,3332788,yes,,
+litho_IMP_dyke,solid,23344,1421799,20041127,yes,,
+litho_DAC_dyke,solid,46008,3530556,32883948,yes,,
